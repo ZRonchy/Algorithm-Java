@@ -1,2 +1,2 @@
-# Algorithm-Java
-Collection of common algorithms
+# Algorithms
+Just for practice.
