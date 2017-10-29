@@ -1,4 +1,4 @@
-package leetcode.math.bit;
+package leetcode.math;
 
 public class PowerOfTen {
 
