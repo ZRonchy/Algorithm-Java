@@ -36,7 +36,7 @@ public class NQueensIssue {
         return result;
     }
 
-    // DFS soluve question
+    // DFS solve question
     private void solutions(int stRow, int n, String[] rows, ArrayList<String[]> result){
         if (stRow >= n) {
             result.add(rows.clone());
