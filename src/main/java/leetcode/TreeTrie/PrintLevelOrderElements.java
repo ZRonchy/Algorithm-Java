@@ -27,6 +27,7 @@ public class PrintLevelOrderElements {
     }
 
 
+    /* Solution 1*/
     static int getLevelUtil(BinaryTreeNode root, int data, int level) {
         if (root == null)
             return 0;
@@ -74,5 +75,35 @@ public class PrintLevelOrderElements {
         List<List<BinaryTreeNode>> results = new ArrayList<>(map.size());
         map.forEach((k, v) -> results.add(v));
         return results;
+    }
+
+    /*Solution 2 */
+    ArrayList<LinkedList<TreeNode>> findLevelLinkList(TreeNode root) {
+        int level = 0;
+
+        ArrayList<LinkedList<TreeNode>> result = new ArrayList<>();
+        LinkedList<TreeNode> list = new LinkedList<>();
+        list.add(root);
+        result.add(level, list);
+
+        while (true) {
+            list = new LinkedList<>();
+            for (int i = 0; i < result.get(level).size(); i++) {
+                TreeNode n = (TreeNode) result.get(level).get(i);
+                if (n != null) {
+                    if(n.left != null) list.add(n.left);
+                    if(n.right!= null) list.add(n.right);
+                }
+            }
+
+            if (list.size() > 0) {
+                result.add(level + 1, list);
+            } else {
+                break;
+            }
+            level++;
+        }
+
+        return result;
     }
 }
