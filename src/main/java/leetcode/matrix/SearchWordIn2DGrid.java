@@ -48,7 +48,7 @@ public class SearchWordIn2DGrid {
     }
 
     // This function searches in all 8-direction from point(row, col) in grid[][]
-    public static boolean search2D(char grid[][], int row, int col, String word) {
+    private static boolean search2D(char grid[][], int row, int col, String word) {
         int rows = grid.length;
         int cols = grid[0].length;
 
