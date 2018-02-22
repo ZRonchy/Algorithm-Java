@@ -1,6 +1,7 @@
 package leetcode.stringarray;
 
 /**
+ * http://bookshadow.com/weblog/2017/07/16/leetcode-maximum-average-subarray-ii/
  * Given an array consisting of n integers, find the contiguous subarray whose length is greater than
  * or equal to k that has the maximum average value. And you need to output the maximum average value.
  Example 1:
@@ -16,7 +17,7 @@ package leetcode.stringarray;
  Elements of the given array will be in range [-10,000, 10,000].
  The answer with the calculation error less than 10-5 will be accepted.
 
- Solution:
+ Observation:
  A subarray of given length has maximum average if it has maximum sum.
  So we can avoid floating point arithmetic by just comparing sum.
  */
