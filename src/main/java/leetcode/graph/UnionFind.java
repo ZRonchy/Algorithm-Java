@@ -52,7 +52,7 @@ class Graph {
         }
     }
 
-    // A utility function to find the subset of an element i
+    // A utility function to find the Subset of an element i
     int find(int parent[], int i) {
         if (parent[i] == -1) {
             return i;
@@ -76,7 +76,7 @@ class Graph {
             parent[i] = -1;
         }
 
-        // Iterate through all edges of graph, find subset of both
+        // Iterate through all edges of graph, find Subset of both
         // vertices of every edge, if both subsets are same, then
         // there is cycle in graph.
         for (int i = 0; i < graph.E; ++i) {
