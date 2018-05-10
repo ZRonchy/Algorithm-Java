@@ -14,7 +14,9 @@ package leetcode.stringarray;
  * Output: Pattern found at index 0
  * Pattern found at index 9
  * Pattern found at index 12
- * worst case is O(m*(n-m+1))
+ * The best case occurs when the first character of the pattern is not present
+ * in text at all, best case is O(n)
+ * Worst case also occurs when only the last character is different, worst case is O(m*(n-m+1))
  */
 public class SearchingforPatterns_Naive {
     public static void search_naive(String txt, String pat) {
@@ -39,9 +41,35 @@ public class SearchingforPatterns_Naive {
         }
     }
 
+    public static void search_naive_improved(String txt, String pat) {
+        int M = pat.length();
+        int N = txt.length();
+        int i = 0;
+
+        while (i <= N - M) {
+            int j;
+
+            for (j = 0; j < M; j++) {
+                if (txt.charAt(i + j) != pat.charAt(j)) {
+                    break;
+                }
+            }
+
+            if (j == M) {
+                System.out.println("Pattern found at index " + i);
+                i = i + M;
+            } else if (j == 0) {
+                i++;
+            } else {
+                i = i + j;
+            }
+        }
+    }
+
     public static void main(String[] args) {
         String txt = "AABAACAADAABAAABAA";
         String pat = "AABA";
         search_naive(txt, pat);
+        search_naive_improved(txt, pat);
     }
 }
