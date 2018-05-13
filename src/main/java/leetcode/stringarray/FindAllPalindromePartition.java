@@ -1,9 +1,10 @@
 package leetcode.stringarray;
 
+import java.util.ArrayList;
 import java.util.List;
 
 public class FindAllPalindromePartition {
-    boolean isPalindrome(String str, int low, int high) {
+    static boolean isPalindrome(String str, int low, int high) {
         while (low < high) {
             if (str.charAt(low) != str.charAt(high)) {
                 return false;
@@ -14,7 +15,7 @@ public class FindAllPalindromePartition {
         return true;
     }
 
-    void printAllPalindrome_recursion(List<List<String>> allPart,
+    static void allPalindromePartition(List<List<String>> allPart,
                                       List<String> currentPart,
                                       int start,
                                       int n,
@@ -27,12 +28,20 @@ public class FindAllPalindromePartition {
         for (int i=start; i<n;i++) {
             // If substring str[start..i] is palindrome
             if (isPalindrome(str, start, i)) {
-                currentPart.add(str.substring(start, i-start+1));
+                currentPart.add(str.substring(start, i));
             }
 
-            printAllPalindrome_recursion(allPart, currentPart, i+1, n, str);
+            allPalindromePartition(allPart, currentPart, i+1, n, str);
 
             currentPart.remove(currentPart.size() - 1);
         }
+    }
+
+    public static void main(String[] args) {
+        String str = "nitin";
+        List<List<String>> allResults = new ArrayList<>();
+        List<String> currentPartition = new ArrayList<>();
+        allPalindromePartition(allResults, currentPartition, 0, str.length(), str);
+        System.out.println(allResults);
     }
 }
