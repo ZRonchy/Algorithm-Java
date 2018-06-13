@@ -78,7 +78,7 @@ public class PrintLevelOrderElements {
     }
 
     /*Solution 2 */
-    ArrayList<LinkedList<TreeNode>> findLevelLinkList(TreeNode root) {
+    static ArrayList<LinkedList<TreeNode>> findLevelLinkList(TreeNode root) {
         int level = 0;
 
         ArrayList<LinkedList<TreeNode>> result = new ArrayList<>();
