@@ -35,12 +35,10 @@ import java.util.Map;
  one in map and again recursively call for next index.
  */
 public class MinUniqueCharsBySwapping {
-    // Utility function to find minimum
-// number of unique characters in string.
+    // Utility function to find minimum number of unique characters in string.
     public static void minCountUtil(String A, String B,
                       Map<String, Integer> ele,
-                      int ans, int ind)
-    {
+                      int ans, int ind) {
 
         // If entire string is traversed, then
         // compare current number of distinct
