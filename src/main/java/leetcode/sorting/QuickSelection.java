@@ -24,7 +24,6 @@ public class QuickSelection {
             if (arr[j] <= pivot) {
                 //Swapping arr[partitionIndex] and arr[j]
                 swap(arr, partitionIndex, j);
-
                 partitionIndex++;
             }
         }
@@ -38,8 +37,7 @@ public class QuickSelection {
     // This function returns k'th smallest element
     // in arr[l..r] using QuickSort based method.
     // ASSUMPTION: ALL ELEMENTS IN ARR[] ARE DISTINCT
-    public static int kthSmallest(Integer[] arr, int l,
-                                  int r, int k) {
+    public static int kthSmallest(Integer[] arr, int l, int r, int k) {
         // If k is smaller than number of elements
         // in array
         if (k > 0 && k <= r - l + 1) {
