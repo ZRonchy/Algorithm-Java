@@ -24,4 +24,36 @@ public class HIndex {
 
         return result;
     }
+ 
+     // sort the array, O(NlgN)
+    public static int computeHIndexBySorting(int[] A) {
+        Arrays.sort(A);
+        int h = 0;
+        for (int i = A.length-1; i >= 0; i--) {
+            if(A[i] > h) {
+                h++;
+            } else {
+                return h;
+            }
+        }
+        return -1;
+    }
+
+    // no need to sort array, O(N)
+    public static int computeHIndex(int[] A) {
+        int n = A.length;
+        int[] s = new int[n+1];
+        for(int num : A) {
+            num = Math.min(n ,num);
+            s[num]++;
+        }
+        int sum = 0;
+        for (int i = s.length-1; i >= 0; i--) {
+            sum += s[i];
+            if(sum >= i) {
+                return i;
+            }
+        }
+        return -1;
+    }
 }
