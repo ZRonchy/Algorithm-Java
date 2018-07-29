@@ -13,7 +13,6 @@ public class ShortestPalindrome {
         }
 
         int length = s.length();
-        int minLength = Integer.MAX_VALUE;
         String result = "";
         if (isPalindrome(s)) {
             return s;
