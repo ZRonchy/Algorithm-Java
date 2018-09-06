@@ -9,7 +9,6 @@ public class ReverseBits {
 
     public static void main(String args[]) {
         System.out.print(solution(43261596));
-
     }
 
     // &：当两边操作数的位同时为1时，结果为1，否则为0。如1100&1010=1000
