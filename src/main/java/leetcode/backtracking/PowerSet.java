@@ -31,6 +31,23 @@ public class PowerSet {
         return sets;
     }
 
+    //Simple backtracking
+    public List<List<Integer>> subsets(int[] nums){
+        List<List<Integer>> result = new LinkedList<List<Integer>>();
+        subsets(nums, 0, new ArrayList<Integer>(), result);
+        return result;
+    }
+    
+    private void subsets(int[] nums, int start, List<Integer> temp, List<List<Integer>> result){
+        result.add(new ArrayList<Integer>(temp));
+        for(int i = start; i < nums.length; i++){
+            temp.add(nums[i]);
+            subsets(nums, i + 1, temp, result);
+            temp.remove(temp.size() - 1);
+        }
+    }
+    
+    // main
     public static void main(String[] args) {
         Set<Integer> mySet = new HashSet<>();
         mySet.add(1);
