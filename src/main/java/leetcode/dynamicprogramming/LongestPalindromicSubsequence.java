@@ -1,11 +1,26 @@
 package leetcode.dynamicprogramming;
 
 /**
- * Given a sequence, find the length of the longest palindromic subsequence in it.
+ * Given a string s, find the longest palindromic subsequence's length in s. You may assume that the maximum length of s is 1000.
+ * <p>
+ * Example 1:
+ * Input:
+ * <p>
+ * "bbbab"
+ * Output:
+ * 4
+ * One possible longest palindromic subsequence is "bbbb".
+ * Example 2:
+ * Input:
+ * <p>
+ * "cbbd"
+ * Output:
+ * 2
+ * One possible longest palindromic subsequence is "bb".
  */
 public class LongestPalindromicSubsequence {
-    // lps("ABBASYW", 0, 7)
-    int lps(String seq, int i, int j) {
+    // lps("ABBASYA", 0, 6)
+    static int lps(String seq, int i, int j) {
         // Base Case 1: If there is only 1 character
         if (i == j)
             return 1;
@@ -51,5 +66,9 @@ public class LongestPalindromicSubsequence {
         return L[0][n - 1];
     }
 
+    public static void main(String[] args) {
+        System.out.println(lps("ABBCSYA", 0, 6));
+        System.out.println(lps_dp("ABBCSYA"));
+    }
 
 }
