@@ -21,6 +21,12 @@ import java.util.HashSet;
  * if and only if the difference between maximum and minimum elements in subarray
  * is equal to the difference between last and first indexes of subarray. So the
  * idea is to keep track of minimum and maximum element in every subarray.
+ * http://www.cnblogs.com/jclian91/p/9151120.html
+ *
+ * DP solution: 用 MS[i]表示最大子数组的结束下标为i的情形，则对于i-1，有：
+ MS[i]=max{MS[i−1]+A[i],A[i]}.
+
+ 这样就有了一个子结构，对于初始情形，MS[1]=A[1].遍历i, 就能得到MS这个数组，其最大者即可最大子数组的和。
  */
 public class LargestSubarrayWithContiguousElems {
     // Returns length of the longest contiguous subarray
