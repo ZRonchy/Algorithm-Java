@@ -20,14 +20,6 @@ import static java.lang.Math.max;
 
  其中局部最优值是比较前一天并少交易一次的全局最优加上大于0的差值，和前一天的局部最优加上差值中取较大值，而全局
  最优比较局部最优和前一天的全局最优。
-
- 1. k大于等于pricesSize时，问题退化为没有交易次数限制；
- 2. k小于pricesSize时，令dp[i][j]表示第j天发生了i笔交易的最大收益，那么
- 有以下两种情形：
- a. 第j天没有发生交易,此时dp[i][j] = dp[i][j-1];
- b. 第j天发生了第i笔交易,为了使得dp[i][j]最大，我们要找到一天d(0<=d<j)，
- 在这天共发生了i-1笔交易，此时:
- dp[i][j] = max(dp[i-1][d] + prices[j] - prices[d]).
  */
 public class BuySellStockIII {
     int maxProfit(int[] prices) {
