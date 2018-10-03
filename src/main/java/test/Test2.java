@@ -6,7 +6,9 @@ package test;
 public class Test2 {
 
     public static void main(String[] args) {
-        System.out.println(""+(109&1));
+        for (int i=0;i<3;++i) {
+            System.out.println(i);
+        }
 
     }
 }

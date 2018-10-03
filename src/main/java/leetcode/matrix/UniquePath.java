@@ -13,12 +13,12 @@ public class UniquePath {
 
         int[][] dp = new int[m][n];
 
-        //left column
+        // 只有一列时，到终点每个格子只有一种走法
         for(int i=0; i<m; i++){
             dp[i][0] = 1;
         }
 
-        //top row
+        //只有一行时，到终点每个格子只有一种走法
         for(int j=0; j<n; j++){
             dp[0][j] = 1;
         }
