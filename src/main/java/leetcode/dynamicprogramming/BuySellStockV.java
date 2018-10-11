@@ -58,4 +58,22 @@ public class BuySellStockV {
         }
         return sell[prices.length - 1];
     }
+
+    //这个算法的空间复杂度是O(n)，不过由于sell[i]仅仅依赖前一项，buy[i]仅仅依赖前两项，
+    // 所以可以优化到O(1)
+    public int maxProfit_O1(int[] prices) {
+        if (prices == null || prices.length == 0) return 0;
+
+        int curSell = 0;   // sell[i]
+        int prevSell = 0;  // sell[i-2]
+        int buy = -prices[0]; // buy[i]
+
+        for (int i = 1; i < prices.length; ++i) {
+            final int tmp = curSell;
+            curSell = Math.max(curSell, buy + prices[i]);
+            buy = Math.max(buy, (i > 1 ? prevSell : 0) - prices[i]);
+            prevSell = tmp;
+        }
+        return curSell;
+    }
 }
