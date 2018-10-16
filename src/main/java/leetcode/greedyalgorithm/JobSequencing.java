@@ -20,7 +20,7 @@ import java.util.List;
  * c, a, e
  * <p>
  * Solution
- * 1) Sort all jobs in decreasing order of profit. If twoor more jobs are having the
+ * 1) Sort all jobs in decreasing order of profit. If two or more jobs are having the
  * same profit then sort them as per their entry in the job list.
  * 2) Initialize the result sequence as first job in sorted jobs.
  * 3) Do following for remaining n-1 jobs
