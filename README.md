@@ -13,10 +13,11 @@ Coding Practice. Just for fun.
 - NQueen
 - Power Set
 
-## Lesson 3 Sliding window
+## Lesson 3 Sliding Window & Meet in the Middle
 - Longest substring without repeating characters
+- [Three Sum](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/ThreeSum.java)
 
-## Lesson 4 Greedy algorithm
+## Lesson 4 Greedy Algorithm
 - Scheduling/Job Sequencing
 - Huffman Coding
 
@@ -34,7 +35,7 @@ Coding Practice. Just for fun.
 - All Palindrome Partitions
 - Anagram
 
-## Lesson 8 BFS/DFS
+## Lesson 8 BFS & DFS
 - Word Ladder
 - [Remove Invalid Parentheses](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/RemoveInvalidParentheses.java)
 
@@ -46,4 +47,4 @@ Coding Practice. Just for fun.
 - Detect Cycle
 
 ## Lesson 11 Recursion
-- []Integer To English Words](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/IntegerToEnglishWords.java)
+- [Integer To English Words](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/IntegerToEnglishWords.java)
