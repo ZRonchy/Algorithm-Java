@@ -20,6 +20,7 @@ Coding Practice. Just for fun.
 ## Lesson 4 Greedy Algorithm
 - Scheduling/Job Sequencing
 - Huffman Coding
+- [Task Scheduler](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/TaskScheduler.java)
 
 ## Lesson 5 Sort & Search
 - Merge Sort
