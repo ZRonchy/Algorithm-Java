@@ -26,6 +26,7 @@ Coding Practice. Just for fun.
 - Merge Sort
 - Quick Sort
 - Binary Search
+- K-th Smallest Element
 
 ## Lesson 6 Matrix
 - Search a Word
@@ -49,3 +50,8 @@ Coding Practice. Just for fun.
 
 ## Lesson 11 Recursion
 - [Integer To English Words](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/IntegerToEnglishWords.java)
+
+## Lesson 12 Interavls
+- [Meeting Rooms](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MeetingRooms.java)
+- Merge Intervals
+- Insert Intervals
