@@ -8,6 +8,7 @@ Coding Practice. Just for fun.
 - Longest Common Sequence
 - Edit Distance
 - Best Time to Buy and Sell Stock
+- [Regular Expression Matching](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/RegularExpressionMatching.java)
 
 ## Lesson 2 Backtracking
 - NQueen

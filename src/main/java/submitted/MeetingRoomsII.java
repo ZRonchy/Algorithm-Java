@@ -5,7 +5,6 @@ import java.util.PriorityQueue;
 
 /**
  * https://leetcode.com/submissions/detail/184365583/
- *
  */
 public class MeetingRoomsII {
     public int minMeetingRooms(Interval[] intervals) {
