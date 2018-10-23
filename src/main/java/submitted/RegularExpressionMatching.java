@@ -27,7 +27,7 @@ public class RegularExpressionMatching {
 
         for (int i = 0; i < p.length(); i++) {
             // * must follow a character, so won't be any IndexOutOfBound
-            // For p = "a*" and a* counts as empty
+            // For p = "a*" and a* counts as empty e.g. "aab" -> "c*aab"
             if (p.charAt(i) == '*' && dp[0][i - 1]) {
                 dp[0][i+1] = true;
             }
