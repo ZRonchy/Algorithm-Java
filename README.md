@@ -41,6 +41,7 @@ Coding Practice. Just for fun.
 ## Lesson 8 BFS & DFS
 - Word Ladder
 - [Remove Invalid Parentheses](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/RemoveInvalidParentheses.java)
+- [Valid Parenthesis String](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/ValidParenthesisString.java)
 
 ## Lesson 9 Tree
 - Invert Binary Tree
