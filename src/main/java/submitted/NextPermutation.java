@@ -7,6 +7,8 @@ package submitted;
  * b. from the end of array to i, find the first index j that is larger than nums[i] e.g. nums[4] = 3
  * c. swap nums[i] and nums[j] e.g. 1 3 7 4 2 1
  * d. reverse the following numbers after index i e.g. 1 3 1 2 4 7
+ * Worst case time O(n)
+ * Space O(1)
  */
 public class NextPermutation {
     public void nextPermutation(int[] nums) {
