@@ -16,9 +16,12 @@ Coding Practice. Just for fun.
 - NQueen
 - Power Set
 - [Generate Parentheses](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/GenerateParentheses.java)
+
 ## Lesson 3 Sliding Window & Meet in the Middle
 - Longest substring without repeating characters
 - [Three Sum](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/ThreeSum.java)
+- Subarray With Given Sum
+- String Contains an Anagram of Another String
 
 ## Lesson 4 Greedy Algorithm
 - Scheduling/Job Sequencing
@@ -48,6 +51,7 @@ Coding Practice. Just for fun.
 ## Lesson 9 Tree
 - Invert Binary Tree
 - Find Min/Max Depth of a Binary Tree
+- [Serialize And Deserialize Binary Tree](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/SerializeDeserializeTree.java)
 
 ## Lesson 10 Union Find/Disjoint Set
 - Detect Cycle
