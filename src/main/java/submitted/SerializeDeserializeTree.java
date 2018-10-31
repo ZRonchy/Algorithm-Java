@@ -7,6 +7,9 @@ import java.util.Queue;
 
 /**
  * https://leetcode.com/submissions/detail/186442545/
+ * For two other methods, check
+ *
+ * https://leetcode.com/problems/serialize-and-deserialize-binary-tree/discuss/74260/Recursive-DFS-Iterative-DFS-and-BFS
  */
 public class SerializeDeserializeTree {
     // Encodes a tree to a single string.
