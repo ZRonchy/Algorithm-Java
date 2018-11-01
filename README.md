@@ -20,8 +20,8 @@ Coding Practice. Just for fun.
 ## Lesson 3 Sliding Window & Meet in the Middle
 - Longest substring without repeating characters
 - [Three Sum](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/ThreeSum.java)
-- Subarray With Given Sum
 - String Contains an Anagram of Another String
+- Find All Anagrams in a String
 
 ## Lesson 4 Greedy Algorithm
 - Scheduling/Job Sequencing
