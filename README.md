@@ -16,6 +16,8 @@ Coding Practice. Just for fun.
 - NQueen
 - Power Set
 - [Generate Parentheses](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/GenerateParentheses.java)
+- All permutations of a String
+- [Permutations of an Array](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/Permutations.java)
 
 ## Lesson 3 Sliding Window & Meet in the Middle
 - Longest substring without repeating characters
