@@ -5,6 +5,8 @@ import java.util.List;
 
 /**
  * https://leetcode.com/submissions/detail/187496955/
+ * time O(2^n)
+ * space O(n)
  */
 public class PalindromePartition {
     public List<List<String>> partition(String s) {
