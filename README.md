@@ -71,3 +71,7 @@ Coding Practice. Just for fun.
 - [Meeting Rooms II](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MeetingRoomsII.java)
 - Merge Intervals
 - Insert Intervals
+
+## Lesson 13 Data Structure Design
+- Add and Search Word
+- LRU Cache
