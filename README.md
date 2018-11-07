@@ -39,7 +39,7 @@ Coding Practice. Just for fun.
 - Merge Sort
 - Quick Sort
 - Binary Search
-- K-th Smallest Element
+- [K-th Largest Element](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FindKthLargest.java)
 
 ## Lesson 6 Matrix
 - Search a Word
@@ -59,6 +59,7 @@ Coding Practice. Just for fun.
 - Invert Binary Tree
 - Find Min/Max Depth of a Binary Tree
 - [Serialize And Deserialize Binary Tree](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/SerializeDeserializeTree.java)
+- [Binary Tree Preorder Traversal](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/BinaryTreePreorderTraversal.java)
 
 ## Lesson 10 Union Find/Disjoint Set
 - Detect Cycle
