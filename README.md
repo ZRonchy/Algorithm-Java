@@ -76,6 +76,12 @@ Coding Practice. Just for fun.
 ## Lesson 13 LinkedList
 - [Reorder List](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/ReorderList.java)
 
-## Lesson 13 Data Structure Design
+## Lesson 14 Data Structure Design
 - [Add and Search Word](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/WordDictionary.java)
 - LRU Cache
+
+## Lesson 15 Basic Problems
+- Is Anagram
+- Valid Parenthesis
+- Is Palindrome
+- Reverse Singly List
