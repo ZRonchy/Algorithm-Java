@@ -22,7 +22,7 @@ public class FindAllAnagramsInAString {
                 count--;
             }
 
-            // everytime right moves right and decrease the count of the character
+            // everytime we move right pointer forward
             map[sc[right]]--;
             right++;
 
