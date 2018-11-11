@@ -26,7 +26,7 @@ Coding Practice. Just for fun.
 - Longest substring without repeating characters
 - [Three Sum](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/ThreeSum.java)
 - String Contains an Anagram of Another String
-- Find All Anagrams in a String
+- [Find All Anagrams in a String](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FindAllAnagramsInAString.java)
 - [Minimum Window Substring](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MinimumWindowSubstring.java)
 - Permutation in String
  
