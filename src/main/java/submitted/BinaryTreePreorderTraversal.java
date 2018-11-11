@@ -2,10 +2,7 @@ package submitted;
 
 import leetcode.TreeTrie.TreeNode;
 
-import java.util.ArrayDeque;
-import java.util.ArrayList;
-import java.util.Deque;
-import java.util.List;
+import java.util.*;
 
 /**
  * https://leetcode.com/submissions/detail/187951798/
@@ -14,6 +11,7 @@ import java.util.List;
  * Deque here could be changed to stack
  */
 public class BinaryTreePreorderTraversal {
+    // Deque could be changed to stack.
     public List<Integer> preorderTraversal(TreeNode root) {
         List<Integer> result = new ArrayList<>();
         Deque<Guide> path = new ArrayDeque<>();
@@ -40,5 +38,35 @@ public class BinaryTreePreorderTraversal {
             this.ope = ope;
             this.node = node;
         }
+    }
+
+    // Iterative
+    public static List<Integer> preorderTraversal_iterative(TreeNode root) {
+        List<Integer> res = new ArrayList<>();
+        if (root == null) return res;
+        Stack<TreeNode> stack = new Stack<>();
+        stack.push(root);
+        while (!stack.isEmpty()) {
+            TreeNode cur = stack.pop();
+            if (cur.right != null) stack.push(cur.right);
+            if (cur.left != null) stack.push(cur.left);
+            res.add(cur.val);
+        }
+        return res;
+    }
+
+    // Recursive
+    public static List<Integer> preorderTraversal_rec(TreeNode root) {
+        List<Integer> res = new ArrayList<>();
+        if (root == null) return res;
+        helper(res, root);
+        return res;
+    }
+
+    public static void helper(List<Integer> res, TreeNode root) {
+        if (root == null) return;
+        res.add(root.val);
+        helper(res, root.left);
+        helper(res, root.right);
     }
 }
