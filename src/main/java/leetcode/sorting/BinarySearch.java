@@ -13,7 +13,7 @@ public class BinarySearch {
         int last = array.length - 1;
 
         while (first <=  last) {
-            int middle = (first + last) / 2;
+            int middle = (first + last) / 2; // int middle = first + (last-first)/2;
 
             if (array[middle] > key) {
                 last = middle -1 ;

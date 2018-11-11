@@ -83,8 +83,10 @@ Coding Practice. Just for fun.
 - [Add and Search Word](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/WordDictionary.java)
 - LRU Cache
 
-## Lesson 15 Basic Problems
+## Lesson 15 Basics
 - Is Anagram
 - Valid Parenthesis
 - Is Palindrome
 - Reverse Singly List
+- Binary Search
+- Tree Traversal
