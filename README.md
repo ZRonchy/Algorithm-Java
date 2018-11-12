@@ -49,6 +49,7 @@ Coding Practice. Just for fun.
 - Longest Palindrome Subsequence
 - All Palindrome Partitions
 - Anagram
+- [Palindrome Pairs](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/PalindromePairs.java)
 
 ## Lesson 8 BFS & DFS
 - Word Ladder
@@ -84,9 +85,9 @@ Coding Practice. Just for fun.
 - LRU Cache
 
 ## Lesson 15 Basics
-- Is Anagram
-- Valid Parenthesis
-- Is Palindrome
-- Reverse Singly List
-- Binary Search
+- [Is Anagram](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/stringarray/Anagrams.java)
+- [Valid Parenthesis](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/stringarray/RemoveInvalidParentheses.java)
+- [Is Palindrome](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/PalindromePairs.java)
+- [Reverse Singly List](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/ReorderList.java)
+- [Binary Search](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/sorting/BinarySearch.java)
 - Tree Traversal
