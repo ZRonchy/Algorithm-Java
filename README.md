@@ -28,7 +28,7 @@ Coding Practice. Just for fun.
 - String Contains an Anagram of Another String
 - [Find All Anagrams in a String](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FindAllAnagramsInAString.java)
 - [Minimum Window Substring](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MinimumWindowSubstring.java)
-- Permutation in String
+- [Permutation in String](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/PermutationInString.java)
  
 ## Lesson 4 Greedy Algorithm
 - Scheduling/Job Sequencing
