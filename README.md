@@ -3,7 +3,7 @@
 Coding Practice. Just for fun.
 
 ## Lesson 1 Dynamic Programming
-- Logest Common substring
+- Longest Common substring
 - Maximum Subarray
 - Longest Common Sequence
 - Edit Distance
