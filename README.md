@@ -8,6 +8,7 @@ Coding Practice. Just for fun.
 - Longest Common Sequence
 - Edit Distance
 - House Robber
+- [Maximum Subarray](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MaximumSubarray.java)
 - [Maximum Product Subarray](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MaximumProductSubarray.java)
 - [Best Time to Buy and Sell Stock](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/BuyAndSellStock.java)
 - [Regular Expression Matching](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/RegularExpressionMatching.java)
