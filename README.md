@@ -44,6 +44,7 @@ Coding Practice. Just for fun.
 
 ## Lesson 6 Matrix
 - Search a Word
+- [Number of Islands](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/NumberOfIslands.java)
 
 ## Lesson 7 String
 - Longest Palindrome
