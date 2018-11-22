@@ -6,7 +6,7 @@ Coding Practice. Just for fun.
 - Longest Common substring
 - Maximum Subarray
 - Longest Common Sequence
-- Edit Distance
+- [Edit Distance](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/EditDistance.java)
 - House Robber
 - [Maximum Subarray](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MaximumSubarray.java)
 - [Maximum Product Subarray](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MaximumProductSubarray.java)
@@ -24,9 +24,8 @@ Coding Practice. Just for fun.
 - [Palindrome Partition](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/PalindromePartition.java)
 
 ## Lesson 3 Sliding Window & Meet in the Middle
-- Longest substring without repeating characters
+- [Longest substring without repeating characters](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/LongestSubstringWithoutRepeatingCharacters.java)
 - [Three Sum](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/ThreeSum.java)
-- String Contains an Anagram of Another String
 - [Find All Anagrams in a String](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FindAllAnagramsInAString.java)
 - [Minimum Window Substring](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MinimumWindowSubstring.java)
 - [Permutation in String](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/PermutationInString.java)
