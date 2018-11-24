@@ -47,6 +47,7 @@ Coding Practice. Just for fun.
 
 ## Lesson 7 String
 - Longest Palindrome
+- [Longest Palindrome Substring](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/LongestPalindromicSubstring.java)
 - Longest Palindrome Subsequence
 - All Palindrome Partitions
 - Anagram
@@ -89,6 +90,7 @@ Coding Practice. Just for fun.
 - [Is Anagram](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/stringarray/Anagrams.java)
 - [Valid Parenthesis](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/stringarray/RemoveInvalidParentheses.java)
 - [Is Palindrome](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/PalindromePairs.java)
+- [Two Cases Palindrome](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/LongestPalindromicSubstring.java)
 - [Reverse Singly List](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/ReorderList.java)
 - [Binary Search](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/sorting/BinarySearch.java)
 - Tree Traversal
