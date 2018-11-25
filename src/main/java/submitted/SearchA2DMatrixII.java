@@ -3,24 +3,26 @@ package submitted;
 /**
  * https://leetcode.com/submissions/detail/191677895/
  * Binary Search from (m,0)
+ * time : O(m + n)
+ * space : O(1)
  */
 public class SearchA2DMatrixII {
     public boolean searchMatrix(int[][] matrix, int target) {
         if (matrix == null || matrix.length == 0 || matrix[0].length == 0) {
             return false;
         }
-        int m=matrix.length-1;
-        int n=matrix[0].length-1;
+        int m = matrix.length - 1;
+        int n = matrix[0].length - 1;
 
-        int i=m;
-        int j=0;
+        int i = m;
+        int j = 0;
 
-        while(i>=0 && j<=n){
-            if(target < matrix[i][j]){
+        while (i >= 0 && j <= n) {
+            if (target < matrix[i][j]) {
                 i--;
-            }else if(target > matrix[i][j]){
+            } else if (target > matrix[i][j]) {
                 j++;
-            }else{
+            } else {
                 return true;
             }
         }
