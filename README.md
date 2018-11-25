@@ -43,7 +43,7 @@ Coding Practice. Just for fun.
 - [K-th Largest Element](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FindKthLargest.java)
 
 ## Lesson 6 Matrix
-- Search a Word
+- [Word Search](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/WordSearch.java)``
 - [Number of Islands](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/NumberOfIslands.java)
 
 ## Lesson 7 String
@@ -61,8 +61,8 @@ Coding Practice. Just for fun.
 - [Word Break II](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/WordBreak.java)
 
 ## Lesson 9 Tree
-- Invert Binary Tree
-- Find Min/Max Depth of a Binary Tree
+- [Invert Binary Tree](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/InvertBinaryTree.java)
+- [Find Min/Max Depth of a Binary Tree](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MaximumDepthOfBinaryTree.java)
 - [Serialize And Deserialize Binary Tree](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/SerializeDeserializeTree.java)
 - [Binary Tree Preorder Traversal](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/BinaryTreePreorderTraversal.java)
 - [Preorder Tree Traversal](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/BinaryTreePreorderTraversal.java)
