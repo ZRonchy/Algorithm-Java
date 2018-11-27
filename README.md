@@ -41,6 +41,7 @@ Coding Practice. Just for fun.
 - Quick Sort
 - Binary Search
 - [K-th Largest Element](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FindKthLargest.java)
+- [Search in Rotated Sorted Array](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/SearchInRotatedSortedArray.java)
 
 ## Lesson 6 Matrix
 - [Word Search](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/WordSearch.java)``
