@@ -28,7 +28,6 @@ public class IntegerToEnglishWords {
                 build.append(" ");
                 num = num % nums[i];
             }
-
         }
 
         return build.toString();

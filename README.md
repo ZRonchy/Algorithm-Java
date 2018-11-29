@@ -90,7 +90,13 @@ Coding Practice. Just for fun.
 - [Add and Search Word](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/WordDictionary.java)
 - LRU Cache
 
-## Lesson 15 Basics
+## Lesson 15 Character From/To Integer
+- [Roman to Integer](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/RomanToInteger.java)
+- [Integer to Roman](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/IntegerToRoman.java)
+- String to Integer
+- [Integer to English Words](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/IntegerToEnglishWords.java)
+
+## Lesson 16 Basics
 - [Is Anagram](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/stringarray/Anagrams.java)
 - [Valid Parenthesis](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/stringarray/RemoveInvalidParentheses.java)
 - [Is Palindrome](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/PalindromePairs.java)
