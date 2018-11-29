@@ -55,6 +55,7 @@ Coding Practice. Just for fun.
 - All Palindrome Partitions
 - Anagram
 - [Palindrome Pairs](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/PalindromePairs.java)
+- Longest Consecutive Sequence
 
 ## Lesson 8 BFS & DFS
 - Word Ladder
