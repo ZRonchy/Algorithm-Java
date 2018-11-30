@@ -53,9 +53,8 @@ Coding Practice. Just for fun.
 - [Longest Palindrome Substring](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/LongestPalindromicSubstring.java)
 - Longest Palindrome Subsequence
 - All Palindrome Partitions
-- Anagram
 - [Palindrome Pairs](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/PalindromePairs.java)
-- Longest Consecutive Sequence
+- [Longest Consecutive Sequence](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/LongestConsecutiveSequence.java)
 
 ## Lesson 8 BFS & DFS
 - Word Ladder
