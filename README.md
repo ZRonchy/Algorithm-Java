@@ -57,7 +57,7 @@ Coding Practice. Just for fun.
 - [Longest Consecutive Sequence](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/LongestConsecutiveSequence.java)
 
 ## Lesson 8 BFS & DFS
-- Word Ladder
+- [Word Ladder](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/WordLadder.java)
 - [Remove Invalid Parentheses](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/RemoveInvalidParentheses.java)
 - [Valid Parenthesis String](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/ValidParenthesisString.java)
 - [Word Break II](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/WordBreak.java)
