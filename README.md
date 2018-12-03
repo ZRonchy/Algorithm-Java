@@ -96,7 +96,10 @@ Coding Practice. Just for fun.
 - String to Integer
 - [Integer to English Words](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/IntegerToEnglishWords.java)
 
-## Lesson 16 Basics
+## Lesson 16 Stack
+- [Flatten Nested List Iterator](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FlattenNestedListIterator.java)
+
+## Lesson 17 Basics
 - [Is Anagram](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/stringarray/Anagrams.java)
 - [Valid Parenthesis](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/stringarray/RemoveInvalidParentheses.java)
 - [Is Palindrome](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/PalindromePairs.java)
