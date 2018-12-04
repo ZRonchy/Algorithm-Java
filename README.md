@@ -70,6 +70,8 @@ Coding Practice. Just for fun.
 - [Preorder Tree Traversal](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/BinaryTreePreorderTraversal.java)
 - [Inorder Tree Traversal](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/BinaryTreeInorderTraversal.java)
 - [Postorder Tree Traversal](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/BinaryTreePostorderTraversal.java)
+- [Binary Tree  Vertical Order Traversal](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/BinaryTreeVerticalOrderTraversal.java)
+- [Binary Tree  Level Order Traversal](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/BinaryTreeLevelOrderTraversal.java)
 
 ## Lesson 10 Union Find/Disjoint Set
 - Detect Cycle
