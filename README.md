@@ -92,11 +92,13 @@ Coding Practice. Just for fun.
 - [Add and Search Word](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/WordDictionary.java)
 - LRU Cache
 
-## Lesson 15 Character From/To Integer
+## Lesson 15 String From/To Integer
 - [Roman to Integer](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/RomanToInteger.java)
 - [Integer to Roman](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/IntegerToRoman.java)
 - String to Integer
 - [Integer to English Words](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/IntegerToEnglishWords.java)
+- Multiply Strings
+- String to Integer (atoi)
 
 ## Lesson 16 Stack
 - [Flatten Nested List Iterator](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FlattenNestedListIterator.java)
