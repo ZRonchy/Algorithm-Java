@@ -37,8 +37,8 @@ Coding Practice. Just for fun.
 - [Task Scheduler](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/TaskScheduler.java)
 
 ## Lesson 5 Sort & Search
+- [Quick Sort](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/QuickSort.java)
 - Merge Sort
-- Quick Sort
 - Binary Search
 - [K-th Largest Element](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FindKthLargest.java)
 - [Search in Rotated Sorted Array](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/SearchInRotatedSortedArray.java)
