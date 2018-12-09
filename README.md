@@ -48,6 +48,7 @@ Coding Practice. Just for fun.
 - [Word Search](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/WordSearch.java)``
 - [Number of Islands](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/NumberOfIslands.java)
 - [Search A 2D Matrix II](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/SearchA2DMatrixII.java)
+- [Max Area of Island](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MaxAreaOfIsland.java)
 
 ## Lesson 7 String
 - Longest Palindrome

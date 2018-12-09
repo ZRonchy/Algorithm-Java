@@ -5,7 +5,7 @@ package submitted;
  * For every island, visit its neighbour land using dfs until there is
  * no such island, mark every visited node as 0.
  * time : O(m * n)
- * space : O(m * n)
+ * space : O(n)
  */
 public class NumberOfIslands {
     int row;
