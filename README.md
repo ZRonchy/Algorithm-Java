@@ -78,6 +78,7 @@ Coding Practice. Just for fun.
 
 ## Lesson 10 Union Find/Disjoint Set
 - Detect Cycle
+- [Friend Circles](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/sorting/FriendCircles.java)
 
 ## Lesson 11 Recursion
 - [Integer To English Words](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/IntegerToEnglishWords.java)
@@ -114,3 +115,4 @@ Coding Practice. Just for fun.
 - [Reverse Singly List](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/ReorderList.java)
 - [Binary Search](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/sorting/BinarySearch.java)
 - Tree Traversal
+- [Union Find](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/sorting/UnionFind.java)

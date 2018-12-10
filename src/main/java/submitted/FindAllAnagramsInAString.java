@@ -39,7 +39,7 @@ public class FindAllAnagramsInAString {
             // Current length of substring has been evaluated, move left pointer forward
             if (right - left == p.length()) {
                 if (map[sc[left]] >= 0) {
-                    // if current left character is a valid character, count should add 1 as we miss it
+                    // if current left character is a valid character, rank should add 1 as we miss it
                     count++;
                 }
 
@@ -64,7 +64,7 @@ public class FindAllAnagramsInAString {
             map[c]++;
         }
         while (right < s.length()) {
-            //1：扩展窗口，窗口中包含一个T中子元素，count--；
+            //1：扩展窗口，窗口中包含一个T中子元素，rank--；
             //2：通过count或其他限定值，得到一个可能解。
             //3：只要窗口中有可能解，那么缩小窗口直到不包含可能解。
         }

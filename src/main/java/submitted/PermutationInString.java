@@ -42,7 +42,7 @@ public class PermutationInString {
 
             // Length mathches, move left pointer forward
             if (right - left == s1.length()) {
-                // if current left pointer character is a valid character in s1, increase count as we will delete it
+                // if current left pointer character is a valid character in s1, increase rank as we will delete it
                 if (map[s2.charAt(left)] >= 0) {
                     count++;
                 }
