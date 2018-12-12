@@ -96,6 +96,8 @@ Coding Practice. Just for fun.
 ## Lesson 14 Data Structure Design
 - [Add and Search Word](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/WordDictionary.java)
 - LRU Cache
+- [Insert Delete GetRandom O(1)](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/InsertDeleteGetRandom.java)
+- Trie
 
 ## Lesson 15 String From/To Integer
 - [Roman to Integer](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/RomanToInteger.java)
