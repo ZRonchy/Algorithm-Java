@@ -36,7 +36,7 @@ public class InsertDeleteGetRandom {
      */
     public boolean remove(int val) {
         if (!map.containsKey(val)) return false;
-
+        // to remove a value, swap it with the last value and then remove
         int index = map.remove(val);
         int lastVal = list.remove(list.size() - 1);
         if (index != list.size()) {
