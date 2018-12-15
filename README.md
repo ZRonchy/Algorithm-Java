@@ -31,6 +31,7 @@ Coding Practice. Just for fun.
 - [Find All Anagrams in a String](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FindAllAnagramsInAString.java)
 - [Minimum Window Substring](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MinimumWindowSubstring.java)
 - [Permutation in String](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/PermutationInString.java)
+- [Fruit into Baskets](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FruitIntoBaskets.java)
  
 ## Lesson 4 Greedy Algorithm
 - Scheduling/Job Sequencing
