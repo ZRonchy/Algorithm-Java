@@ -2,6 +2,8 @@ package submitted;
 
 /**
  * https://leetcode.com/submissions/detail/195131068/
+ * time O(n)
+ * space O(n)
  */
 public class FruitIntoBaskets {
     public int totalFruit(int[] tree) {

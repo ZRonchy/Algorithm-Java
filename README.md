@@ -110,6 +110,7 @@ Coding Practice. Just for fun.
 
 ## Lesson 16 Stack
 - [Flatten Nested List Iterator](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FlattenNestedListIterator.java)
+- [Min Stack](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MinStack.java)
 
 ## Lesson 17 Basics
 - [Is Anagram](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/stringarray/Anagrams.java)
