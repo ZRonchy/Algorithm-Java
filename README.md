@@ -53,14 +53,15 @@ Coding Practice. Just for fun.
 - [Max Area of Island](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MaxAreaOfIsland.java)
 
 ## Lesson 7 String
-- Longest Palindrome
+- [Longest Palindrome](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/greedyalgorithm/LongestPalindrome.java)
 - [Longest Palindrome Substring](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/LongestPalindromicSubstring.java)
-- Longest Palindrome Subsequence
+- [Longest Palindrome Subsequence](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/LongestPalindromicSubsequence.java)
 - All Palindrome Partitions
 - [Palindrome Pairs](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/PalindromePairs.java)
 - [Longest Consecutive Sequence](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/LongestConsecutiveSequence.java)
-- [Longest Common Subsequence]
-- [Longest Common Substring]
+- [Longest Increasing Subsequence](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/LongestIncreasingSubsequence.java)
+- [Longest Common Subsequence](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/dynamicprogramming/LongestCommonSubsequence.java)
+- [Longest Common Substring](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/dynamicprogramming/LongestCommonSubstring.java)
 
 ## Lesson 8 BFS & DFS
 - [Word Ladder](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/WordLadder.java)

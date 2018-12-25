@@ -22,7 +22,6 @@ public class LongestPalindromicSubstring {
                     }
                 }
 
-                dp[i][j] = s.charAt(i) == s.charAt(j) && ((j - i <= 2) || dp[i + 1][j - 1]);
                 if (dp[i][j]) {
                     if (j - i + 1 > max) {
                         max = j - i + 1;
