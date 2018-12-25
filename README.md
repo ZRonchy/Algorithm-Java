@@ -59,6 +59,8 @@ Coding Practice. Just for fun.
 - All Palindrome Partitions
 - [Palindrome Pairs](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/PalindromePairs.java)
 - [Longest Consecutive Sequence](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/LongestConsecutiveSequence.java)
+- [Longest Common Subsequence]
+- [Longest Common Substring]
 
 ## Lesson 8 BFS & DFS
 - [Word Ladder](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/WordLadder.java)
