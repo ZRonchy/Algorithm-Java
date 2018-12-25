@@ -41,7 +41,7 @@ Coding Practice. Just for fun.
 ## Lesson 5 Sort & Search
 - [Quick Sort](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/QuickSort.java)
 - Merge Sort
-- Binary Search
+- [Binary Search](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/sorting/BinarySearch.java)
 - [K-th Largest Element](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FindKthLargest.java)
 - [Search in Rotated Sorted Array](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/SearchInRotatedSortedArray.java)
 - [Counting Sort](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/sorting/CountingSort.java)
@@ -98,7 +98,7 @@ Coding Practice. Just for fun.
 - [Add and Search Word](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/WordDictionary.java)
 - LRU Cache
 - [Insert Delete GetRandom O(1)](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/InsertDeleteGetRandom.java)
-- Trie
+- Implement Trie (Prefix Tree)
 
 ## Lesson 15 String From/To Integer
 - [Roman to Integer](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/RomanToInteger.java)
@@ -106,7 +106,7 @@ Coding Practice. Just for fun.
 - String to Integer
 - [Integer to English Words](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/IntegerToEnglishWords.java)
 - Multiply Strings
-- String to Integer (atoi)
+- [String to Integer (atoi)](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/StringToInteger.java)
 
 ## Lesson 16 Stack
 - [Flatten Nested List Iterator](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FlattenNestedListIterator.java)
