@@ -1,0 +1,15 @@
+/**
+ * https://leetcode.com/submissions/detail/197175848/
+ **/
+
+# Solution 1
+awk 'FNR == 10 {print }'  file.txt
+
+# Solution 2
+awk 'NR == 10' file.txt
+
+# Solution 3
+sed -n 10p file.txt
+
+# Solution 4
+tail -n+10 file.txt|head -1
