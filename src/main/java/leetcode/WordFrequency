@@ -1,0 +1,16 @@
+/**
+ * https://leetcode.com/submissions/detail/197174795/
+ **/
+ 
+cat words.txt | tr -s ' ' '\n' | sort | uniq -c | sort -r | awk '{ print $2, $1 }'
+
+Notes:
+tr -s: Translate, squeeze, and/or delete characters from standard input. -s replace ' ' with '\n'
+
+sort: To make the same string successive so that uniq could count the same string fully and correctly.
+
+uniq -c: uniq is used to filter out the repeated lines which are successive, -c means counting
+
+sort -r: -r means sorting in descending order
+
+awk '{ print $2, $1 }': To format the output.
