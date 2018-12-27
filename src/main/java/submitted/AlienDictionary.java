@@ -71,6 +71,7 @@ public class AlienDictionary {
             }
         }
 
+        // if number in res does not match total count, there is a cycle, no valid solution
         if (res.length() != count) return "";
         return res.toString();
     }

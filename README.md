@@ -3,11 +3,8 @@
 Coding Practice. Just for fun.
 
 ## Lesson 1 Dynamic Programming
-- Longest Common substring
-- Maximum Subarray
-- Longest Common Sequence
 - [Edit Distance](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/EditDistance.java)
-- House Robber
+- [House Robber](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/HouseRobber.java)
 - [Maximum Subarray](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MaximumSubarray.java)
 - [Maximum Product Subarray](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MaximumProductSubarray.java)
 - [Best Time to Buy and Sell Stock](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/BuyAndSellStock.java)
