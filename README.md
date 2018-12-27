@@ -15,7 +15,7 @@ Coding Practice. Just for fun.
 - NQueen
 - Power Set
 - [Generate Parentheses](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/GenerateParentheses.java)
-- All permutations of a String
+- [All Permutations of A String](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/stringarray/AllPermutationsOfString.java)
 - [Permutations of an Array](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/Permutations.java)
 - [Subsets](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/Subsets.java)
 - [Combination Sum](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/CombinationSum.java)
@@ -60,6 +60,8 @@ Coding Practice. Just for fun.
 - [Longest Increasing Subsequence](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/LongestIncreasingSubsequence.java)
 - [Longest Common Subsequence](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/dynamicprogramming/LongestCommonSubsequence.java)
 - [Longest Common Substring](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/dynamicprogramming/LongestCommonSubstring.java)
+- All Palindrome Permutations of a String
+- [Count All Palindrome Substrings in a String](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/stringarray/CountAllPalindromeSubstrings.java)
 
 ## Lesson 8 BFS & DFS
 - [Word Ladder](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/WordLadder.java)
