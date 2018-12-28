@@ -12,8 +12,7 @@ Coding Practice. Just for fun.
 - [Word Break](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/WordBreak.java)
 
 ## Lesson 2 Backtracking
-- NQueen
-- Power Set
+- [N Queens](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/NQueens.java)
 - [Generate Parentheses](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/GenerateParentheses.java)
 - [All Permutations of A String](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/stringarray/AllPermutationsOfString.java)
 - [Permutations of an Array](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/Permutations.java)
