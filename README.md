@@ -61,7 +61,7 @@ Coding Practice. Just for fun.
 - [Longest Common Subsequence](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/dynamicprogramming/LongestCommonSubsequence.java)
 - [Longest Common Substring](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/dynamicprogramming/LongestCommonSubstring.java)
 - All Palindrome Permutations of a String
-- [Count All Palindrome Substrings in a String](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/stringarray/CountAllPalindromeSubstrings.java)
+- [Palindromic Substrings](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/PalindromicSubstrings.java)
 
 ## Lesson 8 BFS & DFS
 - [Word Ladder](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/WordLadder.java)
