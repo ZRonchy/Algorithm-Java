@@ -8,12 +8,22 @@ public class PalindromicSubstrings {
     // space : O(n^2);
     public int countSubstrings(String s) {
         if (s == null || s.length() == 0) return 0;
-        boolean[][] dp = new boolean[s.length()][s.length()];
         int res = 0;
+        boolean[][] dp = new boolean[s.length()][s.length()];
+        int max = 0;
         for (int j = 0; j < s.length(); j++) {
             for (int i = 0; i <= j; i++) {
-                dp[i][j] = s.charAt(i) == s.charAt(j) && ((j - i <= 2) || dp[i + 1][j - 1]);
-                if (dp[i][j]) res++;
+                if (s.charAt(i) == s.charAt(j)) {
+                    if (j - i <= 2) { // a, aa, aba
+                        dp[i][j] = true;
+                    } else { // abba, a*****a
+                        dp[i][j] = dp[i + 1][j - 1];
+                    }
+                }
+
+                if (dp[i][j]) {
+                    res++;
+                }
             }
         }
         return res;
