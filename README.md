@@ -49,6 +49,7 @@ Coding Practice. Just for fun.
 - [Number of Islands](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/NumberOfIslands.java)
 - [Search A 2D Matrix II](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/SearchA2DMatrixII.java)
 - [Max Area of Island](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MaxAreaOfIsland.java)
+- [Maximal Square](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MaximalSquare.java)
 
 ## Lesson 7 String
 - [Longest Palindrome](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/greedyalgorithm/LongestPalindrome.java)
