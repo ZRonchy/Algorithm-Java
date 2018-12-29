@@ -43,6 +43,7 @@ Coding Practice. Just for fun.
 - [Counting Sort](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/sorting/CountingSort.java)
 - [Alien Dictionary](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/sorting/AlienDictionary.java)
 - [Sqrt](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/sorting/Sqrt.java)
+- [Find Duplicate Number](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/sorting/FindDuplicateNumber.java)
 
 ## Lesson 6 Matrix
 - [Word Search](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/WordSearch.java)``
