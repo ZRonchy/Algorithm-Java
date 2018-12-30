@@ -1,4 +1,5 @@
-package leetcode.stringarray;//For example, with n = 7 and k = 3, the array [1,2,3,4,5,6,7] is rotated to [5,6,7,1,2,3,4].
+package leetcode.stringarray;
+//For example, with n = 7 and k = 3, the array [1,2,3,4,5,6,7] is rotated to [5,6,7,1,2,3,4].
 // How many different ways do you know to solve this problem?
 //1. Divide the array two parts: 1,2,3,4 and 5, 6
 //2. Reverse first part: 4,3,2,1,5,6
