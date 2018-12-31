@@ -1,5 +1,8 @@
 package submitted;
 
+/**
+ * https://leetcode.com/submissions/detail/198168717/
+ */
 public class BackspaceStringCompare {
     public boolean backspaceCompare(String S, String T) {
         StringBuilder sb1=new StringBuilder();
