@@ -2,7 +2,6 @@ package submitted;
 /**
  * https://leetcode.com/submissions/detail/196958208/
  * 厄拉多塞筛法，求一组质数，时间复杂度仅有O(nloglogn)
- * 如果从1到n-1分别判断质数，时间复杂度为O(nsqrt(n))）
  * 1   2  3  4  5  6  7  8  9 10
  * 11 12 13 14 15 16 17 18 18 20
  */
