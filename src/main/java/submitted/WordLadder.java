@@ -4,7 +4,7 @@ import java.util.*;
 
 /**
  * https://leetcode.com/submissions/detail/192482337/
- * time: O(n)
+ * time: O(n*26^l) -> O(n*26^l/2), l = len(word)
  * time: O(n)
  */
 public class WordLadder {
