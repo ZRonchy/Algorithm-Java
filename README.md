@@ -10,6 +10,7 @@ Coding Practice. Just for fun.
 - [Best Time to Buy and Sell Stock](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/BuyAndSellStock.java)
 - [Regular Expression Matching](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/RegularExpressionMatching.java)
 - [Word Break](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/WordBreak.java)
+- [Wildcard Matching](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/WildcardMatching.java)
 
 ## Lesson 2 Backtracking
 - [N Queens](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/NQueens.java)
