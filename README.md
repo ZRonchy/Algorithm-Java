@@ -123,6 +123,7 @@ Coding Practice. Just for fun.
 - [Min Stack](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MinStack.java)
 - Max Stack
 - [Largest Rectangle In Histogram](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/LargestRectangleInHistogram.java)
+- [Basic Calculator](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/BasicCalculator.java)
 
 ## Lesson 17 Basics
 - [Is Anagram](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/stringarray/Anagrams.java)

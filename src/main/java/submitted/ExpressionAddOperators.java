@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- *
+ * https://leetcode.com/submissions/detail/199261211/
  * Reference: https://www.youtube.com/watch?v=v05R1OIIg08
  * time: O(n * 4^(n-1)): n-1 spaces with 4 possibilities ('+', '-', '*', ' '), evaluation of value needs O(n)
  * space: O(n)
@@ -34,7 +34,7 @@ public class ExpressionAddOperators {
             }
         }
         for (int i = pos; i < num.length(); i++) {
-            // "105" -> "05" is the same as 5 and not valid, so break directly
+            // "105" -> "05" is the same as 5 and not valid as a new number, so break directly
             if (i != pos && num.charAt(pos) == '0') break;
             long cur = Long.parseLong(num.substring(pos, i + 1)); // operator is " " between two digits
             if (pos == 0) {
