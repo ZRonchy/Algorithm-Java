@@ -129,5 +129,6 @@ Coding Practice. Just for fun.
 - [Two Cases Palindrome](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/LongestPalindromicSubstring.java)
 - [Reverse Singly List](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/ReorderList.java)
 - [Binary Search](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/sorting/BinarySearch.java)
+- [Binary Search II](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FindFirstAndLastElementInSortedArray.java)
 - Tree Traversal
 - [Union Find](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/UnionFind.java)

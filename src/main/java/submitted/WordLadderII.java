@@ -10,6 +10,8 @@ import java.util.*;
  * the distance of crossing nodes from start node to end node, and store node's next level neighbors to HashMap;
  * 2). Use DFS to output paths with the same distance as the shortest distance from distance HashMap:
  * compare if the distance of the next level node equals the distance of the current node + 1.
+ *  time: O(n*26^l) -> O(n*26^l/2), l = len(word)
+ * space: O(n + k * l), k = number of paths
  */
 public class WordLadderII {
     public List<List<String>> findLadders(String start, String end, List<String> wordList) {
