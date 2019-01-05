@@ -71,6 +71,7 @@ Coding Practice. Just for fun.
 - [Remove Invalid Parentheses](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/RemoveInvalidParentheses.java)
 - [Valid Parenthesis String](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/ValidParenthesisString.java)
 - [Word Break II](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/WordBreak.java)
+- [Expression Add Operators](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/ExpressionAddOperators.java)
 
 ## Lesson 9 Tree
 - [Invert Binary Tree](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/InvertBinaryTree.java)
@@ -85,6 +86,7 @@ Coding Practice. Just for fun.
 - [Binary Tree Zigzag Level Order Traversal](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/BinaryTreeZigzagLevelOrderTraversal.java)
 - [Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/ConstructBTFromPreorderInorder.java)
 - [Construct Binary Tree from Postorder and Inorder Traversal](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/ConstructBTFromPostorderInorder.java)
+- [Binary Tree Maximum Path Sum](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/BinaryTreeMaximumPathSum.java.java)
 
 ## Lesson 10 Union Find/Disjoint Set
 - Detect Cycle
