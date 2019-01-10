@@ -34,6 +34,7 @@ Coding Practice. Just for fun.
 - Scheduling/Job Sequencing
 - Huffman Coding
 - [Task Scheduler](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/TaskScheduler.java)
+- [Partition Labels](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/PartitionLabels.java)
 
 ## Lesson 5 Sort & Search
 - [Quick Sort](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/QuickSort.java)
@@ -125,6 +126,7 @@ Coding Practice. Just for fun.
 - Max Stack
 - [Largest Rectangle In Histogram](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/LargestRectangleInHistogram.java)
 - [Basic Calculator](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/BasicCalculator.java)
+- [Basic Calculator II](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/BasicCalculatorII.java)
 
 ## Lesson 17 Basics
 - [Is Anagram](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/stringarray/Anagrams.java)
