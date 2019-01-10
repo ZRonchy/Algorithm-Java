@@ -95,34 +95,33 @@ Coding Practice. Just for fun.
 - Detect Cycle
 - [Friend Circles](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FriendCircles.java)
 
-## Lesson 11 Recursion
-- [Integer To English Words](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/IntegerToEnglishWords.java)
-
-## Lesson 12 Interavls
+## Lesson 11 Intervals
 - [Meeting Rooms](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MeetingRooms.java)
 - [Meeting Rooms II](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MeetingRoomsII.java)
 - Merge Intervals
 - Insert Intervals
 
-## Lesson 13 LinkedList
+## Lesson 12 LinkedList
 - [Reorder List](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/ReorderList.java)
 
-## Lesson 14 Data Structure Design
+## Lesson 13 Data Structure Design
 - [Add and Search Word](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/WordDictionary.java)
 - LRU Cache
 - [Insert Delete GetRandom O(1)](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/InsertDeleteGetRandom.java)
 - Implement Trie (Prefix Tree)
 - [Find Median From Data Stream](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FindMedianFromDataStream.java)
 
-## Lesson 15 String From/To Integer
+## Lesson 14 String & Numbers
 - [Roman to Integer](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/RomanToInteger.java)
 - [Integer to Roman](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/IntegerToRoman.java)
 - String to Integer
 - [Integer to English Words](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/IntegerToEnglishWords.java)
 - Multiply Strings
 - [String to Integer (atoi)](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/StringToInteger.java)
+- [Base 7](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/Base7.java)
+- [Power Of Ten](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/math/PowerOfTen.java)
 
-## Lesson 16 Stack
+## Lesson 15 Stack
 - [Flatten Nested List Iterator](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FlattenNestedListIterator.java)
 - [Min Stack](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MinStack.java)
 - Max Stack
@@ -130,7 +129,7 @@ Coding Practice. Just for fun.
 - [Basic Calculator](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/BasicCalculator.java)
 - [Basic Calculator II](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/BasicCalculatorII.java)
 
-## Lesson 17 Basics
+## Lesson 18 Basics
 - [Is Anagram](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/stringarray/Anagrams.java)
 - [Valid Parenthesis](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/stringarray/RemoveInvalidParentheses.java)
 - [Is Palindrome](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/PalindromePairs.java)
