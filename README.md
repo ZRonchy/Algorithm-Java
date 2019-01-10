@@ -112,6 +112,7 @@ Coding Practice. Just for fun.
 - LRU Cache
 - [Insert Delete GetRandom O(1)](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/InsertDeleteGetRandom.java)
 - Implement Trie (Prefix Tree)
+- [Find Median From Data Stream](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FindMedianFromDataStream.java)
 
 ## Lesson 15 String From/To Integer
 - [Roman to Integer](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/RomanToInteger.java)
