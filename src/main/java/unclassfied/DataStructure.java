@@ -51,6 +51,11 @@ public class DataStructure {
         System.out.println(deque.removeLast());  // 4
     }
 
+    /**
+     * Get min/max element O(1)
+     * Add new element O(logn)
+     * Remove min/max element O(logn)
+     */
     @Test
     public void testPriorityQueue() {
         Integer[] array = {3, 1, 4, 2};

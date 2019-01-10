@@ -5,7 +5,7 @@ public class CountingSort {
         int n = arr.length;
         char output[] = new char[n];
 
-        // Create a count array to store count of inidividul
+        // Create a count array to store count of individual
         // characters and initialize count array as 0
         int count[] = new int[256];
         for (int i = 0; i < 256; ++i)
