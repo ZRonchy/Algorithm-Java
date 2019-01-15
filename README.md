@@ -99,8 +99,8 @@ Coding Practice. Just for fun.
 ## Lesson 11 Intervals
 - [Meeting Rooms](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MeetingRooms.java)
 - [Meeting Rooms II](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MeetingRoomsII.java)
-- Merge Intervals
-- Insert Intervals
+- [Insert Interval](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/InsertInterval.java)
+- [Merge Interval](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MergeIntervals.java)
 
 ## Lesson 12 LinkedList
 - [Reorder List](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/ReorderList.java)
