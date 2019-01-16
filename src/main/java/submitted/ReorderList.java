@@ -23,6 +23,9 @@ public class ReorderList {
             fast = fast.next.next;
             slow = slow.next;
         }
+        if (fast != null) { // list has odd nodes
+
+        }
         return slow;
     }
 
