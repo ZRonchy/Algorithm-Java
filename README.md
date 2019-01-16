@@ -91,6 +91,7 @@ Coding Practice. Just for fun.
 - [Binary Tree Maximum Path Sum](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/BinaryTreeMaximumPathSum.java.java)
 - [Balanced Binary Tree](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/TreeTrie/BalancedBinaryTree.java)
 - [Inorder Successor in BST](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/InorderSuccessorInBST.java)
+- [Merge Two Binary Trees](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MergeTwoBinaryTrees.java)
 
 ## Lesson 10 Union Find/Disjoint Set
 - Detect Cycle

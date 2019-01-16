@@ -1,5 +1,8 @@
 package submitted;
 
+/**
+ * https://leetcode.com/submissions/detail/201492499/
+ */
 public class PalindromeLinkedList {
     public boolean isPalindrome(ListNode head) {
         ListNode slow = findMiddle(head);
