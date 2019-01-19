@@ -137,7 +137,10 @@ Coding Practice. Just for fun.
 - [Basic Calculator II](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/BasicCalculatorII.java)
 - [Baseball Game](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/BaseballGame.java)
 
-## Lesson 18 Basics
+## Lesson 16 Bit Operations
+- [Gray Code](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/GrayCode.java)
+
+## Lesson 17 Basics
 - [Is Anagram](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/stringarray/Anagrams.java)
 - [Valid Parenthesis](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/stringarray/RemoveInvalidParentheses.java)
 - [Is Palindrome](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/PalindromePairs.java)
