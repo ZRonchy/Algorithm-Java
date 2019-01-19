@@ -116,6 +116,7 @@ Coding Practice. Just for fun.
 - Implement Trie (Prefix Tree)
 - [Find Median From Data Stream](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FindMedianFromDataStream.java)
 - [Implement Queue Using Stacks](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/ImplementQueueUsingStacks.java)
+- [Implement Stack Using Queues](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/ImplementStackUsingQueues.java)
 
 ## Lesson 14 String & Numbers
 - [Roman to Integer](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/RomanToInteger.java)
