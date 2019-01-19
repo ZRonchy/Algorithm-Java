@@ -10,12 +10,13 @@ public class SearchInRotatedSortedArray {
         if (nums == null || nums.length == 0) return -1;
         int start = 0;
         int end = nums.length - 1;
+        // cannot be start<end or start<=end, it will cause endless loop
         while (start + 1 < end) {
             int mid = (end - start) / 2 + start;
             if (nums[mid] == target) return mid;
             if (nums[start] < nums[mid]) { // the first half is definitely increasing, use binary sarch
                 if (nums[start] <= target && target <= nums[mid]) { // if target is in first half
-                    end = mid;
+                        end = mid;
                 } else {
                     start = mid; // search for target in the second half
                 }

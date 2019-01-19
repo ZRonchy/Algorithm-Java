@@ -115,6 +115,7 @@ Coding Practice. Just for fun.
 - [Insert Delete GetRandom O(1)](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/InsertDeleteGetRandom.java)
 - Implement Trie (Prefix Tree)
 - [Find Median From Data Stream](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FindMedianFromDataStream.java)
+- [Implement Queue Using Stacks](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/ImplementQueueUsingStacks.java)
 
 ## Lesson 14 String & Numbers
 - [Roman to Integer](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/RomanToInteger.java)
