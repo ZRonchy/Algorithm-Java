@@ -11,6 +11,7 @@ Coding Practice. Just for fun.
 - [Regular Expression Matching](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/RegularExpressionMatching.java)
 - [Word Break](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/WordBreak.java)
 - [Wildcard Matching](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/WildcardMatching.java)
+- [Min Cost Climbing Stairs](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MinCostClimbingStairs.java)
 
 ## Lesson 2 Backtracking
 - [N Queens](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/NQueens.java)
