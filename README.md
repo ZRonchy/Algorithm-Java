@@ -30,7 +30,8 @@ Coding Practice. Just for fun.
 - [Minimum Window Substring](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MinimumWindowSubstring.java)
 - [Permutation in String](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/PermutationInString.java)
 - [Fruit into Baskets](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FruitIntoBaskets.java)
- 
+- [Max Sliding Window](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MaxSlidingWindow.java)
+
 ## Lesson 4 Greedy Algorithm
 - Scheduling/Job Sequencing
 - Huffman Coding
