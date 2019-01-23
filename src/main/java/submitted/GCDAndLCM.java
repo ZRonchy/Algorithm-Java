@@ -15,6 +15,14 @@ public class GCDAndLCM {
         return a;
     }
 
+    // find gcd of two numbers using recursion
+    public static int gcd_recur(int a, int b) {
+        if (b==0) {
+            return a;
+        }
+        return gcd_recur(b,a%b);
+    }
+
     // find gcd of a list of numbers
     private static long gcd(long[] input) {
         long result = input[0];
