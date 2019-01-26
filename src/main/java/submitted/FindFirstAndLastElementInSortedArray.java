@@ -22,7 +22,9 @@ public class FindFirstAndLastElementInSortedArray {
             }else{
                 start = mid + 1;
             }
-            if(nums[mid] == target) idx = mid;
+            if(nums[mid] == target) {
+                idx = mid;
+            }
         }
         return idx;
     }
