@@ -134,7 +134,7 @@ Coding Practice. Just for fun.
 ## Lesson 15 Stack
 - [Flatten Nested List Iterator](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FlattenNestedListIterator.java)
 - [Min Stack](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MinStack.java)
-- Max Stack
+- [Max Stack](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MaxStack.java)
 - [Largest Rectangle In Histogram](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/LargestRectangleInHistogram.java)
 - [Basic Calculator](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/BasicCalculator.java)
 - [Basic Calculator II](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/BasicCalculatorII.java)
