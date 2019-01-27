@@ -77,6 +77,7 @@ Coding Practice. Just for fun.
 - [Valid Parenthesis String](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/ValidParenthesisString.java)
 - [Word Break II](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/WordBreak.java)
 - [Expression Add Operators](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/ExpressionAddOperators.java)
+- [All Paths From Source to Target](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/GrayCode.java)
 
 ## Lesson 9 Tree
 - [Invert Binary Tree](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/InvertBinaryTree.java)
@@ -95,6 +96,7 @@ Coding Practice. Just for fun.
 - [Balanced Binary Tree](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/TreeTrie/BalancedBinaryTree.java)
 - [Inorder Successor in BST](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/InorderSuccessorInBST.java)
 - [Merge Two Binary Trees](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MergeTwoBinaryTrees.java)
+- [Find Distance Between Nodes In BST](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/TreeTrie/FindDistanceBetweenNodesInBST.java)
 
 ## Lesson 10 Union Find/Disjoint Set
 - Detect Cycle
@@ -143,6 +145,14 @@ Coding Practice. Just for fun.
 ## Lesson 16 Bit Operations
 - [Gray Code](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/GrayCode.java)
 
+## Lesson 17 Graph
+- [Alien Dictionary](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/sorting/AlienDictionary.java)
+- All Topological Sorts of a DAG
+- Shortest Path in DAG
+- Longest Path in DAG
+- Detect Cycle in a DAG using BFS/DFS
+- [All Paths From Source to Target](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/GrayCode.java)
+
 ## Lesson 17 Basics
 - [Is Anagram](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/stringarray/Anagrams.java)
 - [Valid Parenthesis](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/stringarray/RemoveInvalidParentheses.java)
@@ -153,3 +163,4 @@ Coding Practice. Just for fun.
 - [Binary Search II](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FindFirstAndLastElementInSortedArray.java)
 - Tree Traversal
 - [Union Find](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/UnionFind.java)
+- [Topology Sort](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/sorting/AlienDictionary.java)

@@ -4,6 +4,7 @@ import java.util.*;
 
 /**
  * https://leetcode.com/submissions/detail/197216691/
+ * Ref: https://www.geeksforgeeks.org/detect-cycle-in-a-directed-graph-using-bfs/
  * Topology Sort, 无环有向图拓扑排序，有环则无解。
  * 由AOV网构造拓扑序列的拓扑排序算法主要是循环执行以下两步，直到不存在入度为0的顶点为止。
  * (1) 选择一个入度为0的顶点并输出之；

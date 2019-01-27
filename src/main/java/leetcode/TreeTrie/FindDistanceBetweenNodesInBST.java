@@ -16,10 +16,10 @@ public class FindDistanceBetweenNodesInBST {
             return -1;
         }
 
-        int x = pathlength(root, node1) - 1;
-        int y = pathlength(root, node2) - 1;
+        int x = pathLength(root, node1) - 1;
+        int y = pathLength(root, node2) - 1;
         int lcaData = findLCA(root, node1, node2).data;
-        int lcaDistance = pathlength(root, lcaData) - 1;
+        int lcaDistance = pathLength(root, lcaData) - 1;
         return (x + y) - 2 * lcaDistance;
     }
 
@@ -40,11 +40,11 @@ public class FindDistanceBetweenNodesInBST {
         }
     }
 
-    public static int pathlength(BinaryTreeNode root, int n1) {
+    public static int pathLength(BinaryTreeNode root, int node) {
         if (root != null) {
             int x = 0;
-            if ((root.data == n1) || (x = pathlength(root.left, n1)) > 0
-                    || (x = pathlength(root.right, n1)) > 0) {
+            if ((root.data == node) || (x = pathLength(root.left, node)) > 0
+                    || (x = pathLength(root.right, node)) > 0) {
                 return x + 1;
             }
             return 0;
@@ -100,7 +100,6 @@ class BinaryTreeNode {
             } else {
                 this.right = new BinaryTreeNode(num);
             }
-
         }
     }
 }
