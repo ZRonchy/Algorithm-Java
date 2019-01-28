@@ -13,10 +13,10 @@ Coding Practice. Just for fun.
 - [Wildcard Matching](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/WildcardMatching.java)
 - [Min Cost Climbing Stairs](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MinCostClimbingStairs.java)
 
-## Lesson 2 Backtracking
+## Lesson 2 Backtrackingó
 - [N Queens](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/NQueens.java)
 - [Generate Parentheses](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/GenerateParentheses.java)
-- [All Permutations of A String](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/stringarray/AllPermutationsOfString.java)
+- [All Permutations of A String](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/AllPermutationsOfAString.java)
 - [Permutations of an Array](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/Permutations.java)
 - [Subsets](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/Subsets.java)
 - [Combination Sum](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/CombinationSum.java)
