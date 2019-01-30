@@ -126,7 +126,6 @@ Coding Practice. Just for fun.
 ## Lesson 14 String & Numbers
 - [Roman to Integer](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/RomanToInteger.java)
 - [Integer to Roman](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/IntegerToRoman.java)
-- String to Integer
 - [Integer to English Words](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/IntegerToEnglishWords.java)
 - Multiply Strings
 - [String to Integer (atoi)](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/StringToInteger.java)
