@@ -116,9 +116,9 @@ Coding Practice. Just for fun.
 
 ## Lesson 13 Data Structure Design
 - [Add and Search Word](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/WordDictionary.java)
-- LRU Cache
+- [LRU Cache](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/LRUCache.java)
 - [Insert Delete GetRandom O(1)](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/InsertDeleteGetRandom.java)
-- Implement Trie (Prefix Tree)
+- [Implement Trie (Prefix Tree)](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/Trie.java)
 - [Find Median From Data Stream](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FindMedianFromDataStream.java)
 - [Implement Queue Using Stacks](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/ImplementQueueUsingStacks.java)
 - [Implement Stack Using Queues](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/ImplementStackUsingQueues.java)
