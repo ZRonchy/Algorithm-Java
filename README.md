@@ -141,6 +141,7 @@ Coding Practice. Just for fun.
 - [Basic Calculator](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/BasicCalculator.java)
 - [Basic Calculator II](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/BasicCalculatorII.java)
 - [Baseball Game](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/BaseballGame.java)
+- [Next Greater Element](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/NextGreaterElement.java)
 
 ## Lesson 16 Bit Operations
 - [Gray Code](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/GrayCode.java)
