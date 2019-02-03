@@ -9,7 +9,7 @@ import java.util.Queue;
 public class ImplementStackUsingQueues {
     Queue<Integer> queue;
 
-    /** Initialize your data structure here.  构造函数因为类而不一样*/
+    /** Initialize your data structure here.*/
     public ImplementStackUsingQueues() {
         queue = new LinkedList<>();
     }
