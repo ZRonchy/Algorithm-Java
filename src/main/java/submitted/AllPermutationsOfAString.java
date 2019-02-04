@@ -19,7 +19,7 @@ public class AllPermutationsOfAString {
             res.add(temp);
         }
 
-        // start from i=0 not i=start, as we need to
+        // start from i=0 not i=start, as we need to revisit element
         for (int i = 0; i < input.length(); i++) {
             if (used[i]) {
                 continue;
