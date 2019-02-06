@@ -98,6 +98,7 @@ Coding Practice. Just for fun.
 - [Merge Two Binary Trees](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MergeTwoBinaryTrees.java)
 - [Find Distance Between Nodes In BST](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/TreeTrie/FindDistanceBetweenNodesInBST.java)
 - [Add All Greater Values in BST](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/TreeTrie/AddAllGreaterValuesBST.java)
+- [Create Binary Tree With Minimum Height](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/CreateBTWithMinHeight.java)
 
 ## Lesson 10 Union Find/Disjoint Set
 - Detect Cycle
@@ -143,6 +144,7 @@ Coding Practice. Just for fun.
 - [Basic Calculator II](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/BasicCalculatorII.java)
 - [Baseball Game](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/BaseballGame.java)
 - [Next Greater Element](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/NextGreaterElement.java)
+- [Sort Stack in Ascending Order](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/SortStackInAscendingOrder.java)
 
 ## Lesson 16 Bit Operations
 - [Gray Code](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/GrayCode.java)
