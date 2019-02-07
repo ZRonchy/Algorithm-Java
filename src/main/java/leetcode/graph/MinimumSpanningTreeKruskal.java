@@ -83,7 +83,7 @@ public class MinimumSpanningTreeKruskal {
         // can create a copy of array of edges
         Arrays.sort(edge);
 
-        // Allocate memory for creating V ssubsets
+        // Allocate memory for creating V subsets
         Subset subsets[] = new Subset[V];
         for (i = 0; i < V; ++i) {
             subsets[i] = new Subset();

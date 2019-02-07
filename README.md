@@ -13,7 +13,7 @@ Coding Practice. Just for fun.
 - [Wildcard Matching](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/WildcardMatching.java)
 - [Min Cost Climbing Stairs](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MinCostClimbingStairs.java)
 
-## Lesson 2 Backtrackingó
+## Lesson 2 Backtracking
 - [N Queens](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/NQueens.java)
 - [Generate Parentheses](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/GenerateParentheses.java)
 - [All Permutations of A String](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/AllPermutationsOfAString.java)

@@ -54,7 +54,7 @@ public class AlienDictionary {
         Queue<Character> queue = new LinkedList<>();
         for (int i = 0; i < 26; i++) {
             if (degree[i] == 1) {
-                queue.offer((char) ('a' + i)); // put the vertex with lease in degree
+                queue.offer((char) ('a' + i)); // put the vertex with least in degree
             }
         }
 
@@ -63,7 +63,7 @@ public class AlienDictionary {
             res.append(c);
             if (map.containsKey(c)) { // some char doesn't point to other char
                 for (char ch : map.get(c)) {
-                    // After removing c, if the next vertex has the lease in degree (1 in this case),
+                    // After removing c, if the next vertex has the least in degree (1 in this case),
                     // put it in the queue
                     if (--degree[ch - 'a'] == 1) {
                         queue.offer(ch);
