@@ -156,6 +156,7 @@ Coding Practice. Just for fun.
 - Longest Path in DAG
 - Detect Cycle in a DAG using BFS/DFS
 - [All Paths From Source to Target](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/GrayCode.java)
+- [Evaluate Division](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/EvaluateDivision.java)
 
 ## Lesson 18 Basics
 - [Is Anagram](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/stringarray/Anagrams.java)
