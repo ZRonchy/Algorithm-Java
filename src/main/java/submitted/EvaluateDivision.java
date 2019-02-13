@@ -6,7 +6,7 @@ import java.util.Map;
 import java.util.Set;
 
 /**
- *
+ * https://leetcode.com/submissions/detail/207483045/
  */
 public class EvaluateDivision {
     // time O(e + q * e)   e is the number of equations and q is the number of queries

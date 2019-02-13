@@ -31,6 +31,7 @@ Coding Practice. Just for fun.
 - [Permutation in String](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/PermutationInString.java)
 - [Fruit into Baskets](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FruitIntoBaskets.java)
 - [Max Sliding Window](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MaxSlidingWindow.java)
+- [Longest Substring With At Most Two Distinct Characters](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/LongestSubstringWithAtMostTwoDistinctCharacters.java)
 
 ## Lesson 4 Greedy Algorithm
 - Scheduling/Job Sequencing
