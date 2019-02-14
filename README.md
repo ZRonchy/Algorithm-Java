@@ -38,6 +38,7 @@ Coding Practice. Just for fun.
 - Huffman Coding
 - [Task Scheduler](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/TaskScheduler.java)
 - [Partition Labels](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/PartitionLabels.java)
+- [Guess The Word](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/GuessTheWord.java)
 
 ## Lesson 5 Sort & Search
 - [Quick Sort](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/QuickSort.java)
