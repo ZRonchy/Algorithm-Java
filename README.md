@@ -75,9 +75,11 @@ Coding Practice. Just for fun.
 
 ## Lesson 8 BFS & DFS
 - [Word Ladder](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/WordLadder.java)
+- [Word Ladder Unique Path](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/WordLadderUniquePath.java)
+- [Word Ladder II Best](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/WordLadderIIBest.java)
+- [Word Break II](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/WordBreak.java)
 - [Remove Invalid Parentheses](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/RemoveInvalidParentheses.java)
 - [Valid Parenthesis String](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/ValidParenthesisString.java)
-- [Word Break II](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/WordBreak.java)
 - [Expression Add Operators](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/ExpressionAddOperators.java)
 - [All Paths From Source to Target](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/GrayCode.java)
 
@@ -171,3 +173,4 @@ Coding Practice. Just for fun.
 - Tree Traversal
 - [Union Find](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/UnionFind.java)
 - [Topology Sort](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/sorting/AlienDictionary.java)
+- [Segment Tree]((https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/RangeSumQueryMutable.java))
