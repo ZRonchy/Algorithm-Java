@@ -52,6 +52,7 @@ Coding Practice. Just for fun.
 - [Sqrt](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/sorting/Sqrt.java)
 - [Find Duplicate Number](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/sorting/FindDuplicateNumber.java)
 - [Search Insert Position](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/stringarray/SearchInsertPosition.java)
+- [Find Peak Element](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FindPeakElement.java)
 
 ## Lesson 6 Matrix
 - [Word Search](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/WordSearch.java)``
@@ -174,3 +175,5 @@ Coding Practice. Just for fun.
 - [Union Find](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/UnionFind.java)
 - [Topology Sort](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/sorting/AlienDictionary.java)
 - [Segment Tree]((https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/RangeSumQueryMutable.java))
+- [Monotonic Queue](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MaxSlidingWindow.java)
+- [Monotonic Stack](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FindPeakElement.java)

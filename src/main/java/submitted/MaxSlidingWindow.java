@@ -22,11 +22,13 @@ public class MaxSlidingWindow {
     }
 
     // Monotonic Queue time O(n), space O(k)
+    //A monotonic Queue is a data structure the elements from the front to the end is strictly either increasing or decreasing.
     // http://zxi.mytechroad.com/blog/heap/leetcode-239-sliding-window-maximum/
     public int[] maxSlidingWindow1(int[] nums, int k) {
         if (k == 0) return nums;
 
         int[] ans = new int[nums.length - k + 1];
+        // Decreasing queue, store all possible max element at the index.
         Deque<Integer> indices = new LinkedList<>();
 
         for (int i = 0; i < nums.length; ++i) {
@@ -36,6 +38,7 @@ public class MaxSlidingWindow {
 
             indices.addLast(i);
             if (i - k + 1 >= 0) {
+                // indices.getFirst() will return the max element index in the window
                 ans[i - k + 1] = nums[indices.getFirst()];
             }
             if (i - k + 1 >= indices.getFirst()) {
@@ -45,4 +48,15 @@ public class MaxSlidingWindow {
 
         return ans;
     }
+
+    abstract class MonotonicQueue {
+        //push an element on the queue will pop
+        // all elements smaller than it
+        abstract void push(int n);
+        // pop the max element
+        abstract void pop();
+        // get the max element
+        abstract int max();
+    }
+
 }
