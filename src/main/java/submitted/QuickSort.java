@@ -1,5 +1,8 @@
+package submitted;
+
 import java.util.Arrays;
 
+// time O(nlogn) space O(logn)
 public class QuickSort {
     public static void sort(int[] nums) {
         quickSort(nums, 0, nums.length - 1);

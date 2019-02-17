@@ -40,7 +40,7 @@ Coding Practice. Just for fun.
 - [Partition Labels](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/PartitionLabels.java)
 - [Guess The Word](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/GuessTheWord.java)
 
-## Lesson 5 Sort & Search
+## Lesson 5 Sort & Binary Search
 - [Quick Sort](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/QuickSort.java)
 - Merge Sort
 - [Binary Search](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/sorting/BinarySearch.java)
@@ -53,6 +53,7 @@ Coding Practice. Just for fun.
 - [Find Duplicate Number](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/sorting/FindDuplicateNumber.java)
 - [Search Insert Position](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/stringarray/SearchInsertPosition.java)
 - [Find Peak Element](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FindPeakElement.java)
+- [Lower Bound and Upper Bound](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/LowerBoundUpperBound.java)
 
 ## Lesson 6 Matrix
 - [Word Search](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/WordSearch.java)``
@@ -139,6 +140,7 @@ Coding Practice. Just for fun.
 - [Power Of Ten](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/math/PowerOfTen.java)
 - [GCD and LCM](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/GCDAndLCM.java)
 - [Division Without Divide Operator](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/DivisionWithoutDivideOperator.java)
+- [Count Primes](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/CountPrimes.java)
 
 ## Lesson 15 Stack
 - [Flatten Nested List Iterator](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FlattenNestedListIterator.java)
