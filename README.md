@@ -87,7 +87,10 @@ Coding Practice. Just for fun.
 
 ## Lesson 9 Tree
 - [Invert Binary Tree](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/InvertBinaryTree.java)
-- [Find Min/Max Depth of a Binary Tree](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MaximumDepthOfBinaryTree.java)
+- [Find Max Depth of a Binary Tree](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MaximumDepthOfBinaryTree.java)
+- [Find Min Depth of a Binary Tree](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MinimumDepthOfBinaryTree.java)
+- [Path Sum](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/PathSum.java)
+- [Path Sum II](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/PathSumII.java)
 - [Serialize And Deserialize Binary Tree](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/SerializeDeserializeTree.java)
 - [Binary Tree Preorder Traversal](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/BinaryTreePreorderTraversal.java)
 - [Preorder Tree Traversal](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/BinaryTreePreorderTraversal.java)
@@ -174,6 +177,7 @@ Coding Practice. Just for fun.
 - [Binary Search](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/sorting/BinarySearch.java)
 - [Binary Search II](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FindFirstAndLastElementInSortedArray.java)
 - Tree Traversal
+- [Create Binary Search Tree](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/CreateBST.java)
 - [Union Find](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/UnionFind.java)
 - [Topology Sort](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/sorting/AlienDictionary.java)
 - [Segment Tree]((https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/RangeSumQueryMutable.java))
