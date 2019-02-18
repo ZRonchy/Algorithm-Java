@@ -91,6 +91,9 @@ Coding Practice. Just for fun.
 - [Find Min Depth of a Binary Tree](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MinimumDepthOfBinaryTree.java)
 - [Path Sum](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/PathSum.java)
 - [Path Sum II](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/PathSumII.java)
+- [Same Tree](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/SameTree.java)
+- [Symmetric Tree](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/SymmetricTree.java)
+- [Flip Equivalent Binary Trees](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FlipEquivalentBinaryTrees.java)
 - [Serialize And Deserialize Binary Tree](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/SerializeDeserializeTree.java)
 - [Binary Tree Preorder Traversal](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/BinaryTreePreorderTraversal.java)
 - [Preorder Tree Traversal](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/BinaryTreePreorderTraversal.java)
@@ -183,3 +186,4 @@ Coding Practice. Just for fun.
 - [Segment Tree]((https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/RangeSumQueryMutable.java))
 - [Monotonic Queue](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MaxSlidingWindow.java)
 - [Monotonic Stack](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FindPeakElement.java)
+- [Binary Tree Template]
