@@ -31,6 +31,13 @@ public class FriendCircles {
             }
         }
 
+        // find how many groups in union find
+//        for (int i = 0; i < m * n; i++) {
+//            if (find(i) == i) { // i is the root of one group
+//                count++;
+//            }
+//        }
+//        return count;
         public int find(int x) {
             if(x != parent[x]) {
                 // find root and make root as parent of i (path compression)
@@ -38,6 +45,14 @@ public class FriendCircles {
             }
 
             return parent[x];
+        }
+
+        public int find_iterative(int x) {
+            while (x != parent[x]) {
+                parent[x] = parent[parent[x]];
+                x = parent[x];
+            }
+            return x;
         }
 
         public void union(int x, int y) {

@@ -42,7 +42,7 @@ public class GameForLife {
                 lives += board[x][y] & 1;
             }
         }
-        lives -= board[i][j] & 1;
+        lives -= board[i][j] & 1; // get current state
         return lives;
     }
 }
