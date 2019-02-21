@@ -145,6 +145,7 @@ Coding Practice. Just for fun.
 - [String to Integer (atoi)](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/StringToInteger.java)
 - [Base 7](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/Base7.java)
 - [Power Of Ten](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/math/PowerOfTen.java)
+- [Power Of Two](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/math/PowerOfTwo.java)
 - [GCD and LCM](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/GCDAndLCM.java)
 - [Division Without Divide Operator](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/DivisionWithoutDivideOperator.java)
 - [Count Primes](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/CountPrimes.java)
