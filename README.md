@@ -149,6 +149,7 @@ Coding Practice. Just for fun.
 - [GCD and LCM](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/GCDAndLCM.java)
 - [Division Without Divide Operator](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/DivisionWithoutDivideOperator.java)
 - [Count Primes](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/CountPrimes.java)
+- [Find All Numbers Disappeared in an Array]
 
 ## Lesson 15 Stack
 - [Flatten Nested List Iterator](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FlattenNestedListIterator.java)
