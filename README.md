@@ -62,6 +62,7 @@ Coding Practice. Just for fun.
 - [Search A 2D Matrix II](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/SearchA2DMatrixII.java)
 - [Max Area of Island](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MaxAreaOfIsland.java)
 - [Maximal Square](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MaximalSquare.java)
+- [Flood Fill]
 
 ## Lesson 7 String
 - [Longest Palindrome](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/greedyalgorithm/LongestPalindrome.java)
@@ -149,7 +150,7 @@ Coding Practice. Just for fun.
 - [GCD and LCM](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/GCDAndLCM.java)
 - [Division Without Divide Operator](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/DivisionWithoutDivideOperator.java)
 - [Count Primes](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/CountPrimes.java)
-- [Find All Numbers Disappeared in an Array]
+- [Find All Numbers Disappeared in an Array](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FindNumbersDisappearedArray.java)
 
 ## Lesson 15 Stack
 - [Flatten Nested List Iterator](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FlattenNestedListIterator.java)
