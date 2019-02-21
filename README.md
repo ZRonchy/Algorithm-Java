@@ -43,7 +43,7 @@ Coding Practice. Just for fun.
 
 ## Lesson 5 Sort & Binary Search
 - [Quick Sort](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/QuickSort.java)
-- Merge Sort
+- [Merge Sort](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/sorting/MergeSort.java)
 - [Binary Search](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/sorting/BinarySearch.java)
 - [Insertion Sort](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/sorting/InsertionSort.java)
 - [K-th Largest Element](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FindKthLargest.java)
