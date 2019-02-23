@@ -1,8 +1,15 @@
 package submitted;
 
+/**
+ * time: O(mn)
+ * space: O(1)
+ */
 public class FloodFill {
     public int[][] floodFill(int[][] image, int sr, int sc, int newColor) {
-        if (image[sr][sc] == newColor) return image;
+        // Don't have to do anything if the newColor is the same
+        if (image[sr][sc] == newColor) {
+            return image;
+        }
         dfs(image, sr, sc, image[sr][sc], newColor);
         return image;
     }

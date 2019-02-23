@@ -191,4 +191,5 @@ Coding Practice. Just for fun.
 - [Segment Tree](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/RangeSumQueryMutable.java)
 - [Monotonic Queue](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MaxSlidingWindow.java)
 - [Monotonic Stack](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FindPeakElement.java)
-- [Binary Tree Template]
+- [Binary Tree Template](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/BinaryTreeTemplate.java)
+- [Subarray Sum Equals K](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/SubarraySumEqualsK.java)
