@@ -23,6 +23,7 @@ Coding Practice. Just for fun.
 - [Combination Sum](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/CombinationSum.java)
 - [Palindrome Partition](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/PalindromePartition.java)
 - [Combinations](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/Combinations.java)
+- [Generate All Strings With Wildcard](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/GenerateAllStringsWithWildcard.java)
 
 ## Lesson 3 Sliding Window & Meet in the Middle
 - [Longest substring without repeating characters](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/LongestSubstringWithoutRepeatingCharacters.java)
@@ -50,6 +51,7 @@ Coding Practice. Just for fun.
 - [Search in Rotated Sorted Array](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/SearchInRotatedSortedArray.java)
 - [Counting Sort](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/sorting/CountingSort.java)
 - [Alien Dictionary](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/sorting/AlienDictionary.java)
+- [Course Schedule](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/CourseSchedule.java)
 - [Sqrt](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/sorting/Sqrt.java)
 - [Find Duplicate Number](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/sorting/FindDuplicateNumber.java)
 - [Search Insert Position](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/stringarray/SearchInsertPosition.java)
@@ -152,7 +154,6 @@ Coding Practice. Just for fun.
 - [Division Without Divide Operator](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/DivisionWithoutDivideOperator.java)
 - [Count Primes](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/CountPrimes.java)
 - [Find All Numbers Disappeared in an Array](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FindNumbersDisappearedArray.java)
-- [Generate All Strings With Wildcard](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/GenerateAllStringsWithWildcard.java)
 
 ## Lesson 15 Stack
 - [Flatten Nested List Iterator](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FlattenNestedListIterator.java)
