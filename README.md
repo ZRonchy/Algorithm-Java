@@ -13,7 +13,7 @@ Coding Practice. Just for fun.
 - [Wildcard Matching](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/WildcardMatching.java)
 - [Min Cost Climbing Stairs](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MinCostClimbingStairs.java)
 - [Coin Change](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/CoinChange.java)
-- [Target Sum]
+- [Target Sum](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/TargetSum.java)
 - [Burst Ballons](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/BurstBallons.java)
 
 ## Lesson 2 Backtracking
