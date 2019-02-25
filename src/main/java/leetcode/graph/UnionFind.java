@@ -1,7 +1,7 @@
 package leetcode.graph;
 
 /**
- * Union-Find Algorithm can be used to check whether an undirected graph contains cycle or not.
+ * union-Find Algorithm can be used to check whether an undirected graph contains cycle or not.
  * https://www.geeksforgeeks.org/union-find/
  */
 public class UnionFind {

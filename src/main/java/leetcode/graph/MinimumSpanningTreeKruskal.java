@@ -6,31 +6,15 @@ import java.util.Arrays;
  * 1. Sort all the edges in non-decreasing order of their weight.
  * 2. Pick the smallest edge. Check if it forms a cycle with the spanning tree formed so far.
  * If cycle is not formed, include this edge. Else, discard it.
- * ## Uses Union-Find algorithm to detect cycle
+ * ## Uses union-Find algorithm to detect cycle
  * 3. Repeat step#2 until there are (V-1) edges in the spanning tree.
  */
 public class MinimumSpanningTreeKruskal {
-    // A class to represent a graph edge
-    class Edge implements Comparable<Edge> {
-        int src, dest, weight;
-
-        // Comparator function used for sorting edges
-        // based on their weight
-        public int compareTo(Edge compareEdge) {
-            return this.weight - compareEdge.weight;
-        }
-    }
-
-    // A class to represent a Subset for union-find
-    class Subset {
-        int parent, rank;
-    }
-
     int V, E;    // V-> no. of vertices & E->no.of edges
     Edge edge[]; // collection of all edges
 
     // Creates a graph with V vertices and E edges
-    MinimumSpanningTreeKruskal(int v, int e) {
+    private MinimumSpanningTreeKruskal(int v, int e) {
         V = v;
         E = e;
         edge = new Edge[E];
@@ -51,12 +35,12 @@ public class MinimumSpanningTreeKruskal {
 
     // A function that does union of two sets of x and y
     // (uses union by rank)
-    void Union(Subset subsets[], int x, int y) {
+    void union(Subset subsets[], int x, int y) {
         int xroot = find(subsets, x);
         int yroot = find(subsets, y);
 
         // Attach smaller rank tree under root of high rank tree
-        // (Union by Rank)
+        // (union by Rank)
         if (subsets[xroot].rank < subsets[yroot].rank)
             subsets[xroot].parent = yroot;
         else if (subsets[xroot].rank > subsets[yroot].rank)
@@ -74,8 +58,7 @@ public class MinimumSpanningTreeKruskal {
     void KruskalMST() {
         Edge result[] = new Edge[V];  // Tnis will store the resultant MST
         int e = 0;  // An index variable, used for result[]
-        int i = 0;  // An index variable, used for sorted edges
-        for (i = 0; i < V; ++i)
+        for (int i = 0; i < V; ++i)
             result[i] = new Edge();
 
         // Step 1:  Sort all the edges in non-decreasing order of their
@@ -85,7 +68,7 @@ public class MinimumSpanningTreeKruskal {
 
         // Allocate memory for creating V subsets
         Subset subsets[] = new Subset[V];
-        for (i = 0; i < V; ++i) {
+        for (int i = 0; i < V; ++i) {
             subsets[i] = new Subset();
         }
 
@@ -95,14 +78,14 @@ public class MinimumSpanningTreeKruskal {
             subsets[v].rank = 0;
         }
 
-        i = 0;  // Index used to pick next edge
+        int cnt = 0;  // Index used to pick next edge
 
         // Number of edges to be taken is equal to V-1
         while (e < V - 1) {
             // Step 2: Pick the smallest edge. And increment
             // the index for next iteration
             Edge nextEdge = new Edge();
-            nextEdge = edge[i++];
+            nextEdge = edge[cnt++];
 
             int x = find(subsets, nextEdge.src);
             int y = find(subsets, nextEdge.dest);
@@ -112,7 +95,7 @@ public class MinimumSpanningTreeKruskal {
             // of result for next edge
             if (x != y) {
                 result[e++] = nextEdge;
-                Union(subsets, x, y);
+                union(subsets, x, y);
             }
             // Else discard the nextEdge
         }
@@ -121,7 +104,7 @@ public class MinimumSpanningTreeKruskal {
         // the built MST
         System.out.println("Following are the edges in " +
                 "the constructed MST");
-        for (i = 0; i < e; ++i) {
+        for (int i = 0; i < e; ++i) {
             System.out.println(result[i].src + " -- " + result[i].dest + " == " + result[i].weight);
         }
     }
@@ -167,4 +150,19 @@ public class MinimumSpanningTreeKruskal {
 
         graph.KruskalMST();
     }
+}
+// A class to represent a graph edge
+class Edge implements Comparable<Edge> {
+    int src, dest, weight;
+
+    // Comparator function used for sorting edges
+    // based on their weight
+    public int compareTo(Edge compareEdge) {
+        return this.weight - compareEdge.weight;
+    }
+}
+
+// A class to represent a Subset for union-find
+class Subset {
+    int parent, rank;
 }
