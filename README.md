@@ -99,6 +99,8 @@ Coding Practice. Just for fun.
 - [Find Min Depth of a Binary Tree](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MinimumDepthOfBinaryTree.java)
 - [Path Sum](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/PathSum.java)
 - [Path Sum II](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/PathSumII.java)
+- [Path Sum III](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/PathSumIII.java)
+- [Path Sum IV](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/PathSumIV.java)
 - [Same Tree](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/SameTree.java)
 - [Symmetric Tree](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/SymmetricTree.java)
 - [Flip Equivalent Binary Trees](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FlipEquivalentBinaryTrees.java)
