@@ -118,6 +118,7 @@ Coding Practice. Just for fun.
 - [Balanced Binary Tree](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/TreeTrie/BalancedBinaryTree.java)
 - [Inorder Successor in BST](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/InorderSuccessorInBST.java)
 - [Merge Two Binary Trees](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MergeTwoBinaryTrees.java)
+- [Subtree With Maximum Average](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/SubtreeWithMaximumAverage.java)
 - [Count Of Smaller Numbers After Self](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/CountOfSmallerNumbersAfterSelf.java)
 - [Find Distance Between Nodes In BST](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/TreeTrie/FindDistanceBetweenNodesInBST.java)
 - [Add All Greater Values in BST](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/TreeTrie/AddAllGreaterValuesBST.java)
