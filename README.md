@@ -15,6 +15,7 @@ Coding Practice. Just for fun.
 - [Coin Change](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/CoinChange.java)
 - [Target Sum](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/TargetSum.java)
 - [Burst Ballons](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/BurstBallons.java)
+- [Perfect Squares](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/PerfectSquares.java)
 
 ## Lesson 2 Backtracking
 - [N Queens](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/NQueens.java)
