@@ -10,6 +10,7 @@ public class FindPeakElement {
     public int findPeakElement(int[] nums) {
         int start = 0;
         int end = nums.length - 1;
+        // break when start + 1 = end, either one could be the peak
         while (start + 1 < end) {
             int mid = (end - start) / 2 + start;
             if (nums[mid] > nums[mid + 1]) {

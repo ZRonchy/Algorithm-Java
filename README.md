@@ -120,6 +120,7 @@ Coding Practice. Just for fun.
 - [Merge Two Binary Trees](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MergeTwoBinaryTrees.java)
 - [Subtree With Maximum Average](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/SubtreeWithMaximumAverage.java)
 - [Count Of Smaller Numbers After Self](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/CountOfSmallerNumbersAfterSelf.java)
+- [Diameter Of Binary Tree](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/DiameterOfBinaryTree.java)
 - [Find Distance Between Nodes In BST](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/TreeTrie/FindDistanceBetweenNodesInBST.java)
 - [Add All Greater Values in BST](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/TreeTrie/AddAllGreaterValuesBST.java)
 - [Create Binary Tree With Minimum Height](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/CreateBTWithMinHeight.java)
@@ -171,6 +172,7 @@ Coding Practice. Just for fun.
 - [Basic Calculator II](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/BasicCalculatorII.java)
 - [Baseball Game](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/BaseballGame.java)
 - [Next Greater Element](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/NextGreaterElement.java)
+- [Daily Temperatures](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/DailyTemperatures.java)
 - [Sort Stack in Ascending Order](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/SortStackInAscendingOrder.java)
 
 ## Lesson 16 Bit Operations
