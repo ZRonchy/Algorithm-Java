@@ -13,7 +13,7 @@ public class CountOfSmallerNumbersAfterSelf {
     class Node {
         int val;
         int count;
-        int left_count;
+        int leftCount;
         Node left;
         Node right;
         public Node(int val) {
@@ -21,7 +21,7 @@ public class CountOfSmallerNumbersAfterSelf {
             this.count = 1;
         }
         public int lessOrEqual() {
-            return count + left_count;
+            return count + leftCount;
         }
     }
 
@@ -41,9 +41,9 @@ public class CountOfSmallerNumbersAfterSelf {
     private int insert(Node root, int val) {
         if (root.val == val) {
             ++root.count;
-            return root.left_count;
+            return root.leftCount;
         } else if (val < root.val) {
-            ++root.left_count;
+            ++root.leftCount;
             if (root.left == null) {
                 root.left = new Node(val);
                 return 0;

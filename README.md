@@ -206,3 +206,4 @@ Coding Practice. Just for fun.
 - [Monotonic Stack](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FindPeakElement.java)
 - [Binary Tree Template](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/BinaryTreeTemplate.java)
 - [Subarray Sum Equals K](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/SubarraySumEqualsK.java)
+- [The Skyline Problem](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/TheSkylineProblem.java)
