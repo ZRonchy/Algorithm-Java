@@ -123,8 +123,8 @@ Coding Practice. Just for fun.
 - [Count Of Smaller Numbers After Self](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/CountOfSmallerNumbersAfterSelf.java)
 - [Diameter Of Binary Tree](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/DiameterOfBinaryTree.java)
 - [Find Distance Between Nodes In BST](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/TreeTrie/FindDistanceBetweenNodesInBST.java)
-- [Add All Greater Values in BST](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/TreeTrie/AddAllGreaterValuesBST.java)
 - [Create Binary Tree With Minimum Height](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/CreateBTWithMinHeight.java)
+- [Convert BST To Greater Tree](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/ConvertBSTToGreaterTree.java)
 
 ## Lesson 10 Union Find/Disjoint Set
 - Detect Cycle
