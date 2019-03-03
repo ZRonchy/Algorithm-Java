@@ -2,6 +2,8 @@ package submitted;
 
 import leetcode.TreeTrie.TreeNode;
 
+import java.util.LinkedList;
+
 /**
  * https://leetcode.com/submissions/detail/191509650/
  */
@@ -22,5 +24,27 @@ public class InvertBinaryTree {
 
         helper(root.left);
         helper(root.right);
+    }
+
+    public TreeNode invertTree_iterative(TreeNode root) {
+        LinkedList<TreeNode> queue = new LinkedList<>();
+
+        if (root != null) {
+            queue.add(root);
+        }
+
+        while (!queue.isEmpty()) {
+            TreeNode p = queue.poll();
+            if (p.left != null)
+                queue.add(p.left);
+            if (p.right != null)
+                queue.add(p.right);
+
+            TreeNode temp = p.left;
+            p.left = p.right;
+            p.right = temp;
+        }
+
+        return root;
     }
 }
