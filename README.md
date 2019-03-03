@@ -190,6 +190,7 @@ Coding Practice. Just for fun.
 - [Evaluate Division](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/EvaluateDivision.java)
 - [Minimum spanning Tree](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/graph/MinimumSpanningTreeKruskal.java)
 - [Is Graph Bipartite](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/IsGraphBipartite.java)
+- [m Coloring Problem](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MColoringProblem.java)
 
 ## Lesson 18 Basics
 - [Is Anagram](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/stringarray/Anagrams.java)
