@@ -32,6 +32,7 @@ public class RandomSelectFromRectangle {
 
     //Round2 follow-up
     //first of all decide which rectangle yields the point (randomly select a rectangle based on area as the weight)
+    //larger weights leads to higher probability
     //then apply randomSelectFrom(rectangle) on the selected rectangle
     public Point randomSelectFrom(Rectangle[] rectangles) {
         int selected = -1, total = 0;
