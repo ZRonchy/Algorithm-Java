@@ -208,3 +208,4 @@ Coding Practice. Just for fun.
 - [Binary Tree Template](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/BinaryTreeTemplate.java)
 - [Subarray Sum Equals K](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/SubarraySumEqualsK.java)
 - [The Skyline Problem](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/TheSkylineProblem.java)
+- [Random Select From Rectangle](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/RandomSelectFromRectangle.java)
