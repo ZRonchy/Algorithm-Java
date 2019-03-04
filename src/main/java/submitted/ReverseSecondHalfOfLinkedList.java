@@ -22,7 +22,7 @@ public class ReverseSecondHalfOfLinkedList {
             pre = cur;
             cur = temp;
         }
-        slow.next = pre;
+        slow.next = pre; // pre is the new head of second half
         return head;
     }
 }

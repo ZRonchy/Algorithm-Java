@@ -130,6 +130,7 @@ Coding Practice. Just for fun.
 ## Lesson 10 Union Find/Disjoint Set
 - Detect Cycle
 - [Friend Circles](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FriendCircles.java)
+- [Minimum spanning Tree](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/graph/MinimumSpanningTreeKruskal.java)
 
 ## Lesson 11 Intervals
 - [Meeting Rooms](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MeetingRooms.java)
@@ -141,6 +142,8 @@ Coding Practice. Just for fun.
 - [Reorder List](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/ReorderList.java)
 - [Swap Nodes in Pairs](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/SwapNodesInPairs.java)
 - [Palindrome Linked List](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/PalindromeLinkedList.java)
+- [Reverse Second Half Of Linked List](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/ReverseSecondHalfOfLinkedList.java)
+- [Reverse Nodes in k-Group](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/ReverseKGroup.java)
 
 ## Lesson 13 Data Structure Design
 - [Add and Search Word](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/WordDictionary.java)
@@ -176,6 +179,7 @@ Coding Practice. Just for fun.
 - [Next Greater Element](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/NextGreaterElement.java)
 - [Daily Temperatures](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/DailyTemperatures.java)
 - [Sort Stack in Ascending Order](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/SortStackInAscendingOrder.java)
+- [Longest Valid Parentheses](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/stringarray/LongestValidParentheses.java)
 
 ## Lesson 16 Bit Operations
 - [Gray Code](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/GrayCode.java)
