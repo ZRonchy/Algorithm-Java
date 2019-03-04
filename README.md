@@ -69,7 +69,7 @@ Coding Practice. Just for fun.
 - [Search A 2D Matrix II](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/SearchA2DMatrixII.java)
 - [Max Area of Island](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MaxAreaOfIsland.java)
 - [Maximal Square](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MaximalSquare.java)
-- [Flood Fill]
+- [Flood Fill](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FloodFill.java)
 
 ## Lesson 7 String
 - [Longest Palindrome](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/greedyalgorithm/LongestPalindrome.java)
@@ -195,6 +195,9 @@ Coding Practice. Just for fun.
 - [Minimum spanning Tree](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/graph/MinimumSpanningTreeKruskal.java)
 - [Is Graph Bipartite](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/IsGraphBipartite.java)
 - [m Coloring Problem](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MColoringProblem.java)
+- [Dijkstra Shortest Path](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/graph/DijkstraShortestPath.java)
+- [Shortest Path BFS](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MColoringProblem.java)
+- [DFS Traverse Graph](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/DFSTraverseGraph.java)
 
 ## Lesson 18 Basics
 - [Is Anagram](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/stringarray/Anagrams.java)

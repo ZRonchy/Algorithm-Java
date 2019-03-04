@@ -9,7 +9,7 @@ package leetcode.graph;
  * 2) Assign a distance value to all vertices in the input graph. Initialize all distance values as
  * INFINITE. Assign distance value as 0 for the source vertex so that it is picked first.
  * 3) While sptSet doesn’t include all vertices
- * a) Pick a vertex u which is not there in sptSetand has minimum distance value.
+ * a) Pick a vertex u which is not there in sptSet and has minimum distance value.
  * b) Include u to sptSet.
  * c) Update distance value of all adjacent vertices of u. To update the distance values,
  * iterate through all adjacent vertices. For every adjacent vertex v, if sum of distance value
