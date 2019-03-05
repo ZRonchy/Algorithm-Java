@@ -198,6 +198,9 @@ Coding Practice. Just for fun.
 - [Dijkstra Shortest Path](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/graph/DijkstraShortestPath.java)
 - [Shortest Path BFS](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MColoringProblem.java)
 - [DFS Traverse Graph](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/DFSTraverseGraph.java)
+- [Detect Cycle in DAG DFS](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/DetectCycleInDAGDFS.java)
+- [Detect Cycle in DAG BFS](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/sorting/AlienDictionary.java)
+- [Detect Cycle in Undirected Graph BFS](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/DetectCycleInUndirectedGraphBFS.java)
 
 ## Lesson 18 Basics
 - [Is Anagram](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/stringarray/Anagrams.java)
