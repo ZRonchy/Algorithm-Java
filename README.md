@@ -186,15 +186,13 @@ Coding Practice. Just for fun.
 
 ## Lesson 17 Graph
 - [Alien Dictionary](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/sorting/AlienDictionary.java)
-- All Topological Sorts of a DAG
 - Shortest Path in DAG
 - Longest Path in DAG
-- Detect Cycle in a DAG using BFS/DFS
 - [All Paths From Source to Target](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/GrayCode.java)
 - [Evaluate Division](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/EvaluateDivision.java)
 - [Minimum spanning Tree](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/graph/MinimumSpanningTreeKruskal.java)
 - [Is Graph Bipartite](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/IsGraphBipartite.java)
-- [m Coloring Problem](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MColoringProblem.java)
+- [M Coloring Problem](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MColoringProblem.java)
 - [Dijkstra Shortest Path](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/graph/DijkstraShortestPath.java)
 - [Shortest Path BFS](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MColoringProblem.java)
 - [DFS Traverse Graph](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/DFSTraverseGraph.java)
