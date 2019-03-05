@@ -31,7 +31,16 @@ public class DFSTraverseGraph {
         Set<String> visited = new HashSet<>();
 
         // Call the recursive helper function to print DFS traversal
-        dfsUtil(v, visited);
+        // dfsUtil(v, visited); call this for connected graphs without any disconnected vertices
+
+        // Call the recursive helper function to print DFS traversal starting from all vertices one by one
+        // this is to prevent from disconnected graphs and vertices
+        int V = 6; // vertex numbers
+        for (int i=0; i< V; ++i) {
+            if (!visited.contains(i+"")) {
+                dfsUtil(i+"", visited);
+            }
+        }
     }
 
     public static void main(String args[]) {

@@ -43,6 +43,8 @@ public class TopologicalSortingGraph {
         }
 
         // Push current vertex to stack which stores result
+        // Note that a vertex is pushed to stack only when all of its
+        // adjacent vertices (and their adjacent vertices and so on) are already in stack.
         stack.push(new Integer(v));
     }
 
