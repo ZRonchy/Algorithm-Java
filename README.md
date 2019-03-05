@@ -186,7 +186,8 @@ Coding Practice. Just for fun.
 
 ## Lesson 17 Graph
 - [Alien Dictionary](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/sorting/AlienDictionary.java)
-- All Topological Sorts of a DAG
+- [Topological Sorts of a DAG Recursive](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/graph/TopologicalSortingGraph.java)
+- [Topological Sorts of a DAG Non Recursive](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/sorting/AlienDictionary.java)
 - Shortest Path in DAG
 - Longest Path in DAG
 - Detect Cycle in a DAG using BFS/DFS
