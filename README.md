@@ -166,6 +166,7 @@ Coding Practice. Just for fun.
 - [Division Without Divide Operator](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/DivisionWithoutDivideOperator.java)
 - [Count Primes](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/CountPrimes.java)
 - [Find All Numbers Disappeared in an Array](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FindNumbersDisappearedArray.java)
+- [Find Median And Mean In Unsorted Array](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FindMedianAndMeanInUnsortedArray.java)
 
 ## Lesson 15 Stack
 - [Flatten Nested List Iterator](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FlattenNestedListIterator.java)
