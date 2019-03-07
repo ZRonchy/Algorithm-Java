@@ -126,6 +126,7 @@ Coding Practice. Just for fun.
 - [Create Binary Tree With Minimum Height](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/CreateBTWithMinHeight.java)
 - [Convert BST To Greater Tree](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/ConvertBSTToGreaterTree.java)
 - [Subtree Of Another Tree](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/SubtreeOfAnotherTree.java)
+- [Count Nodes In Range BST](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/CountNodesInRangeBST.java)
 
 ## Lesson 10 Union Find/Disjoint Set
 - [Friend Circles](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FriendCircles.java)
@@ -153,7 +154,7 @@ Coding Practice. Just for fun.
 - [Implement Queue Using Stacks](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/ImplementQueueUsingStacks.java)
 - [Implement Stack Using Queues](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/ImplementStackUsingQueues.java)
 
-## Lesson 14 String & Numbers
+## Lesson 14 Numbers
 - [Roman to Integer](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/RomanToInteger.java)
 - [Integer to Roman](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/IntegerToRoman.java)
 - [Integer to English Words](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/IntegerToEnglishWords.java)
@@ -211,8 +212,8 @@ Coding Practice. Just for fun.
 
 ## Lesson 19 Basics
 - [Is Anagram](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/stringarray/Anagrams.java)
-- [Valid Parenthesis](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/stringarray/RemoveInvalidParentheses.java)
 - [Is Palindrome](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/PalindromePairs.java)
+- [Valid Parenthesis](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/ValidParentheses.java)
 - [Two Cases Palindrome](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/LongestPalindromicSubstring.java)
 - [Reverse Singly List](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/ReorderList.java)
 - [Reverse Doubly Linked List](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/ReverseDoublyLinkedList.java)
