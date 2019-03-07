@@ -128,7 +128,6 @@ Coding Practice. Just for fun.
 - [Subtree Of Another Tree](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/SubtreeOfAnotherTree.java)
 
 ## Lesson 10 Union Find/Disjoint Set
-- Detect Cycle
 - [Friend Circles](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FriendCircles.java)
 - [Minimum spanning Tree](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/graph/MinimumSpanningTreeKruskal.java)
 
@@ -202,7 +201,14 @@ Coding Practice. Just for fun.
 - [Detect Cycle in DAG BFS](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/sorting/AlienDictionary.java)
 - [Detect Cycle in Undirected Graph BFS](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/DetectCycleInUndirectedGraphBFS.java)
 
-## Lesson 18 Basics
+## Lesson 18 Heap
+- [Find Median From Data Stream](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FindMedianFromDataStream.java)
+- [Top K Frequent Element](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/stringarray/TopKFrequentElement.java)
+- [Merge K Sorted List](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MergeKSortedList.java)
+- [The Skyline Problem](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/TheSkylineProblem.java)
+- [Minimum Cost ToHire K Workers](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MinimumCostToHireKWorkers.java)
+
+## Lesson 19 Basics
 - [Is Anagram](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/stringarray/Anagrams.java)
 - [Valid Parenthesis](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/stringarray/RemoveInvalidParentheses.java)
 - [Is Palindrome](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/PalindromePairs.java)
@@ -220,6 +226,5 @@ Coding Practice. Just for fun.
 - [Monotonic Stack](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FindPeakElement.java)
 - [Binary Tree Template](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/BinaryTreeTemplate.java)
 - [Subarray Sum Equals K](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/SubarraySumEqualsK.java)
-- [The Skyline Problem](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/TheSkylineProblem.java)
 - [Random Select From Rectangle](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/RandomSelectFromRectangle.java)
 - [Adjacency Matrix Graph](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/graph/AdjMatrixGraph.java)
