@@ -27,8 +27,9 @@ public class Trie {
         TrieNode p = root;
         for (int i = 0; i < word.length(); i++) {
             int index = word.charAt(i) - 'a';
-            if (p.children[index] == null)
+            if (p.children[index] == null) {
                 p.children[index] = new TrieNode();
+            }
             p = p.children[index];
         }
         p.isWord = true;
@@ -50,7 +51,9 @@ public class Trie {
         TrieNode p = root;
         for(int i = 0; i < prefix.length(); i++) {
             int index = prefix.charAt(i) - 'a';
-            if (p.children[index] == null) return null;
+            if (p.children[index] == null) {
+                return null;
+            }
             p = p.children[index];
         }
         return p;

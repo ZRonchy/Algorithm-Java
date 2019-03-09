@@ -13,7 +13,7 @@ import java.util.Set;
  * we got our answer. Furthermore, if `nums.length > k` the answer is definitely true.
  */
 public class ContinuousSubarraySum {
-    public boolean checkSubarraySum_prefixSum(int[] nums, int k) {
+    public boolean checkSubarraySum_bruteForce(int[] nums, int k) {
         for (int i = 0; i < nums.length; i++) {
             int sum = nums[i];
             for (int j = i + 1; j < nums.length; j++) {
@@ -29,7 +29,7 @@ public class ContinuousSubarraySum {
         return false;
     }
 
-    public boolean checkSubarraySum_template(int[] nums, int k) {
+    public boolean checkSubarraySum_prefixSum(int[] nums, int k) {
         if (nums == null || nums.length == 0) {
             return false;
         }
