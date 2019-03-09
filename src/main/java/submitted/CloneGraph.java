@@ -50,20 +50,20 @@ public class CloneGraph {
 
     public List<UndirectedGraphNode> getNodes(UndirectedGraphNode node) {
         Queue<UndirectedGraphNode> queue = new LinkedList<>();
-        HashSet<UndirectedGraphNode> set = new HashSet<>();
+        HashSet<UndirectedGraphNode> visited = new HashSet<>();
         queue.offer(node);
-        set.add(node);
+        visited.add(node);
 
         while (!queue.isEmpty()) {
             UndirectedGraphNode cur = queue.poll();
             for (UndirectedGraphNode neighbor : cur.neighbors) {
-                if (!set.contains(neighbor)) {
-                    set.add(neighbor);
+                if (!visited.contains(neighbor)) {
+                    visited.add(neighbor);
                     queue.offer(neighbor);
                 }
             }
         }
-        return new ArrayList<>(set);
+        return new ArrayList<>(visited);
     }
 }
 

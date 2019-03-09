@@ -127,6 +127,7 @@ Coding Practice. Just for fun.
 - [Convert BST To Greater Tree](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/ConvertBSTToGreaterTree.java)
 - [Subtree Of Another Tree](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/SubtreeOfAnotherTree.java)
 - [Count Nodes In Range BST](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/CountNodesInRangeBST.java)
+- [Find Inorder Successor](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FindInorderSuccessor.java)
 
 ## Lesson 10 Union Find/Disjoint Set
 - [Friend Circles](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FriendCircles.java)

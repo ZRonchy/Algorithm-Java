@@ -31,10 +31,6 @@ public class DetectCycleInDAGDFS {
         return false;
     }
 
-    // Returns true if the graph contains a
-    // cycle, else false.
-    // This function is a variation of DFS() in
-    // https://www.geeksforgeeks.org/archives/18212
     private boolean isCyclic() {
 
         // Mark all the vertices as not visited and

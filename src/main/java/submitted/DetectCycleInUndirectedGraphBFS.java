@@ -33,7 +33,7 @@ public class DetectCycleInUndirectedGraphBFS {
                     visited[v] = true;
                     q.add(v);
                     parent[v] = u;
-                } else if (parent[u] != v) { // visted the same vertext via different parent
+                } else if (parent[u] != v) { // visited the same vertex via different parent
                     return true;
                 }
             }
@@ -42,7 +42,7 @@ public class DetectCycleInUndirectedGraphBFS {
     }
 
 
-    static boolean isCyclicDisconntected(ArrayList<Integer> adj[], int V) {
+    static boolean isCyclicConntected(ArrayList<Integer> adj[], int V) {
 
         // Mark all the vertices as not visited
         boolean visited[] = new boolean[V];
