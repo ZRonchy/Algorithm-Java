@@ -5,7 +5,7 @@ import leetcode.TreeTrie.TreeNode;
 import java.util.*;
 
 /**
- * https://leetcode.com/submissions/detail/188931729/
+ * https://leetcode.com/submissions/detail/213767765/
  * First do a reverse post-order traversal (not the same as pre-order traversal),
  * then reverse the result using Deque.
  */
@@ -18,9 +18,9 @@ public class BinaryTreePostorderTraversal {
         stack.push(root);
         while (!stack.isEmpty()) {
             TreeNode cur = stack.pop();
-            res.addFirst(cur.val);
             if (cur.left != null) stack.push(cur.left);
             if (cur.right != null) stack.push(cur.right);
+            res.addFirst(cur.val);
         }
         return res;
     }

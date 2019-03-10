@@ -5,7 +5,7 @@ import java.util.List;
 
 public class AllPermutationsOfAString {
     public List<String> permutation(String input) {
-        List<String> res = new ArrayList<String>();
+        List<String> res = new ArrayList<>();
         if (input == null || input.length() == 0) {
             return res;
         }

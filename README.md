@@ -89,7 +89,7 @@ Coding Practice. Just for fun.
 - [Word Ladder](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/WordLadder.java)
 - [Word Ladder Unique Path](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/WordLadderUniquePath.java)
 - [Word Ladder II Best](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/WordLadderIIBest.java)
-- [Word Break II](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/WordBreak.java)
+- [Word Break II](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/WordBreakII.java)
 - [Remove Invalid Parentheses](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/RemoveInvalidParentheses.java)
 - [Valid Parenthesis String](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/ValidParenthesisString.java)
 - [Expression Add Operators](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/ExpressionAddOperators.java)
@@ -192,6 +192,7 @@ Coding Practice. Just for fun.
 - [Alien Dictionary](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/sorting/AlienDictionary.java)
 - [Topological Sorts of a DAG Recursive](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/graph/TopologicalSortingGraph.java)
 - [Topological Sorts of a DAG Non Recursive](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/sorting/AlienDictionary.java)
+- [Detect Cycle BFS and DFS Topological Sort](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/CourseSchedule.java)
 - Shortest Path in DAG
 - Longest Path in DAG
 - [All Paths From Source to Target](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/GrayCode.java)

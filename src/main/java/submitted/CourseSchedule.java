@@ -68,7 +68,7 @@ public class CourseSchedule {
         if (visited[curr] == 1) return true;
         if (visited[curr] == 2) return false;
 
-        visited[curr] = 1;
+        visited[curr] = 1; // 1 means the first time to be visited, if appear again, cycles has been detected
 
         for (int next : graph.get(curr)) {
             if (dfs(next, graph, visited)) {
@@ -76,7 +76,7 @@ public class CourseSchedule {
             }
         }
 
-        visited[curr] = 2;
+        visited[curr] = 2; // 2 means already traversed the full cycle of curr successfully
         return false;
     }
 }
