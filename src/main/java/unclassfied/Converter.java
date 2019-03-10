@@ -6,7 +6,7 @@ public class Converter {
         char c = 'a';
         String s = Character.toString(c);
 
-        // int to char
+        // int to char, char to int
         int i = c - 'a';
         c = (char) (i + 'a');
 

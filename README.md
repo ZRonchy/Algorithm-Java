@@ -70,7 +70,8 @@ Coding Practice. Just for fun.
 - [Search A 2D Matrix II](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/SearchA2DMatrixII.java)
 - [Max Area of Island](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MaxAreaOfIsland.java)
 - [Maximal Square](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MaximalSquare.java)
-- [Flood Fill](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FloodFill.java)
+- [Unique Path](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/matrix/UniquePath.java)
+- [Unique Path II](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/matrix/UniquePathII.java)
 
 ## Lesson 7 String
 - [Longest Palindrome](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/greedyalgorithm/LongestPalindrome.java)
@@ -231,6 +232,6 @@ Coding Practice. Just for fun.
 - [Monotonic Queue](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MaxSlidingWindow.java)
 - [Monotonic Stack](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FindPeakElement.java)
 - [Binary Tree Template](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/BinaryTreeTemplate.java)
-- [Subarray Sum Equals K](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/SubarraySumEqualsK.java)
+- [Prefix Sum](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/SubarraySumEqualsK.java)
 - [Random Select From Rectangle](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/RandomSelectFromRectangle.java)
 - [Adjacency Matrix Graph](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/graph/AdjMatrixGraph.java)
