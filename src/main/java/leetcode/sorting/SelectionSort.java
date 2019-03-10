@@ -14,6 +14,7 @@ public class SelectionSort {
 
     }
 
+    // Everytime find the smallest number and put at the start of the array
     private static void selectionSort(int[] array) {
         for (int i = 0; i < array.length - 1; i++){
             int index = i;

@@ -28,6 +28,7 @@ Coding Practice. Just for fun.
 - [Combinations](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/Combinations.java)
 - [Generate All Strings With Wildcard](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/GenerateAllStringsWithWildcard.java)
 - [Find Missing Positive](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FindMissingPositive.java)
+- [All Possible Strings](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/AllPossibleStrings.java)
 
 ## Lesson 3 Sliding Window & Meet in the Middle
 - [Longest substring without repeating characters](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/LongestSubstringWithoutRepeatingCharacters.java)
