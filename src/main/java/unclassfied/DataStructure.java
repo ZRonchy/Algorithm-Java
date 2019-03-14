@@ -77,4 +77,35 @@ public class DataStructure {
 
         System.out.println(maxHeap.poll());  // 4
     }
+
+    @Test
+    public void testTreeMap() {
+        // TreeMap will sort elements in ascending order by key
+        TreeMap<Integer, String> treeMap = new TreeMap<>();
+        treeMap.put(3, "3");
+        treeMap.put(1, "1");
+        treeMap.put(2, "2");
+
+        treeMap.values().forEach(System.out::println); // 1, 2, 3
+        System.out.println(treeMap.firstKey()); // 1
+        System.out.println(treeMap.lastKey()); // 3
+        System.out.println(treeMap.higherKey(2)); // 3
+        System.out.println(treeMap.lowerKey(2)); // 1
+    }
+
+
+    @Test
+    public void testTreeSet() {
+        // TreeMap will sort elements in ascending order by key
+        TreeSet<Integer> treeSet = new TreeSet<>();
+        treeSet.add(3);
+        treeSet.add(1);
+        treeSet.add(2);
+
+        treeSet.stream().forEach(System.out::println); // 1, 2, 3
+        System.out.println(treeSet.first()); // 1
+        System.out.println(treeSet.last()); // 3
+        System.out.println(treeSet.higher(2)); // 3
+        System.out.println(treeSet.lower(2)); // 1
+    }
 }

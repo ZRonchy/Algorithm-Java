@@ -72,6 +72,7 @@ Coding Practice. Just for fun.
 - [Maximal Square](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MaximalSquare.java)
 - [Unique Path](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/matrix/UniquePath.java)
 - [Unique Path II](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/matrix/UniquePathII.java)
+- [Rotate Image](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/crackinginterview/arraysandstrings/RotateImage.java)
 
 ## Lesson 7 String
 - [Longest Palindrome](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/greedyalgorithm/LongestPalindrome.java)
@@ -214,6 +215,7 @@ Coding Practice. Just for fun.
 - [Merge K Sorted List](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MergeKSortedList.java)
 - [The Skyline Problem](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/TheSkylineProblem.java)
 - [Minimum Cost ToHire K Workers](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MinimumCostToHireKWorkers.java)
+- [Median in unsorted array](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MedianInUnsortedArray.java)
 
 ## Lesson 19 Basics
 - [Is Anagram](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/stringarray/Anagrams.java)
