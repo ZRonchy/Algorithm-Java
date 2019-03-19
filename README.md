@@ -132,6 +132,7 @@ Coding Practice. Just for fun.
 - [Subtree Of Another Tree](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/SubtreeOfAnotherTree.java)
 - [Count Nodes In Range BST](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/CountNodesInRangeBST.java)
 - [Find Inorder Successor](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FindInorderSuccessor.java)
+- [Is Array Postorder Traversal](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/IsArrayPostorderTraversal.java)
 
 ## Lesson 10 Union Find/Disjoint Set
 - [Friend Circles](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FriendCircles.java)
