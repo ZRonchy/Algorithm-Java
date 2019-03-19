@@ -120,6 +120,7 @@ Coding Practice. Just for fun.
 - [Construct Binary Tree from Postorder and Inorder Traversal](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/ConstructBTFromPostorderInorder.java)
 - [Binary Tree Maximum Path Sum](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/BinaryTreeMaximumPathSum.java.java)
 - [Balanced Binary Tree](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/TreeTrie/BalancedBinaryTree.java)
+- [Mirror Binary Tree](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/TreeTrie/MirrorBinaryTree.java)
 - [Inorder Successor in BST](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/InorderSuccessorInBST.java)
 - [Merge Two Binary Trees](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MergeTwoBinaryTrees.java)
 - [Subtree With Maximum Average](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/SubtreeWithMaximumAverage.java)
