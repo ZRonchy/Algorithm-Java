@@ -70,4 +70,33 @@ public class SerializeDeserializeTree {
         }
         return root;
     }
-}
+
+    // Preorder Traversal
+
+    String Serialize(TreeNode root) {
+        if(root == null)
+            return "#!";
+        String res = root.val+"!";
+        res = res + Serialize(root.left);
+        res = res + Serialize(root.right);
+        return res;
+    }
+
+    TreeNode Deserialize(String str) {
+        String [] values = str.split("!");
+        Queue<String> queue = new LinkedList<String>();
+        for (int i = 0; i < values.length; i++) {
+            queue.offer(values[i]);
+        }
+        return reconPre(queue);
+    }
+    TreeNode reconPre(Queue<String> queue) {
+        String value = queue.poll();
+        if(value.equals("#"))
+            return null;
+        TreeNode head = new TreeNode(Integer.valueOf(value));
+        head.left = reconPre(queue);
+        head.right = reconPre(queue);
+        return head;
+
+    }
