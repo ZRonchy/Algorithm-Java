@@ -6,7 +6,7 @@ public class FindInorderSuccessor {
 
     // Find InorderSuccessor in Binary Search Tree
     TreeNode inOrderSuccessor(TreeNode root, TreeNode searchNode) {
-        // step 1 of the above algorithm
+        // if has right node, successor is the leftmost node of its right child
         if (searchNode.right != null) {
             TreeNode current = searchNode.right;
 
@@ -35,35 +35,45 @@ public class FindInorderSuccessor {
     }
 
 
+    /**
+     *  树中的结点不仅包含左右子结点，同时包含指向父结点的指针。
+     * 主要分三种：
+     * 1.如果有右孩子，后继节点就是右节点最左边的
+     * 2.如果没有右孩子，判断是否是父节点的左孩子，是的话，返回，不是继续网上找
+     * 3.找不到就是null
+     */
+    public TreeLinkNode GetNext(TreeLinkNode pNode) {
+        if (pNode == null)
+            return null;
+        // 如果有右子树，则找右子树的最左节点
+        if (pNode.right != null) {
+            pNode = pNode.right;
+            // 如果此时pNode没有左子树，那么它就是下一个结点 ，就是最左边的了
+            //如果有左子树，那就在左子树找最左边的
+            while (pNode.left != null)
+                pNode = pNode.left;
+            return pNode;
 
-    // Find InorderSuccessor in Binary Tree
-    TreeNode root;
-    // to change previous node
-    class PreviousNode {
-        TreeNode pNode;
+        }
+        //// 非跟结点，并且没有右子树
+        while (pNode.next != null) {
+            // 找到一个结点是该其父亲的左孩子  ,找到就是返回父节点作为后记
+            if (pNode.next.left == pNode)
+                return pNode.next;
+            //找不到这个左孩子的，就继续往上，next其实是parent
+            pNode = pNode.next;
+        }
+        return null;
+    }
 
-        PreviousNode() {
-            pNode = null;
+    class TreeLinkNode {
+        int val;
+        TreeLinkNode left = null;
+        TreeLinkNode right = null;
+        TreeLinkNode next = null;
+        TreeLinkNode(int val) {
+            this.val = val;
         }
     }
 
-    // function to find inorder successor of
-    // a node
-    private void inOrderSuccessorOfBinaryTree(TreeNode root,
-                                              PreviousNode pre, int searchNode) {
-        // Case1: If right child is not NULL
-        if (root.right != null)
-            inOrderSuccessorOfBinaryTree(root.right, pre, searchNode);
-
-        // Case2: If root data is equal to search node
-        if (root.val == searchNode) {
-            System.out.println("inorder successor of " + searchNode + " is: "
-                    + (pre.pNode != null ? pre.pNode.val : "null"));
-        }
-        pre.pNode = root;
-
-        if (root.left != null) {
-            inOrderSuccessorOfBinaryTree(root.left, pre, searchNode);
-        }
-    }
 }
