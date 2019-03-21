@@ -8,7 +8,7 @@ import java.util.Queue;
 /**
  * https://leetcode.com/submissions/detail/186442545/
  * For two other methods, check
- *
+ * <p>
  * https://leetcode.com/problems/serialize-and-deserialize-binary-tree/discuss/74260/Recursive-DFS-Iterative-DFS-and-BFS
  */
 public class SerializeDeserializeTree {
@@ -24,12 +24,12 @@ public class SerializeDeserializeTree {
             TreeNode node = queue.poll();
             if (node.left != null) {
                 queue.offer(node.left);
-                result = result + node.left.val+ ",";
+                result = result + node.left.val + ",";
             } else {
                 result = result + "null,";
             }
             if (node.right != null) {
-                result = result + node.right.val+ ",";
+                result = result + node.right.val + ",";
                 queue.offer(node.right);
             } else {
                 result = result + "null,";
@@ -74,25 +74,26 @@ public class SerializeDeserializeTree {
     // Preorder Traversal
 
     String Serialize(TreeNode root) {
-        if(root == null)
+        if (root == null)
             return "#!";
-        String res = root.val+"!";
+        String res = root.val + "!";
         res = res + Serialize(root.left);
         res = res + Serialize(root.right);
         return res;
     }
 
     TreeNode Deserialize(String str) {
-        String [] values = str.split("!");
+        String[] values = str.split("!");
         Queue<String> queue = new LinkedList<String>();
         for (int i = 0; i < values.length; i++) {
             queue.offer(values[i]);
         }
         return reconPre(queue);
     }
+
     TreeNode reconPre(Queue<String> queue) {
         String value = queue.poll();
-        if(value.equals("#"))
+        if (value.equals("#"))
             return null;
         TreeNode head = new TreeNode(Integer.valueOf(value));
         head.left = reconPre(queue);
@@ -100,3 +101,4 @@ public class SerializeDeserializeTree {
         return head;
 
     }
+}

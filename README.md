@@ -86,6 +86,7 @@ Coding Practice. Just for fun.
 - [Longest Common Substring](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/dynamicprogramming/LongestCommonSubstring.java)
 - All Palindrome Permutations of a String
 - [Palindromic Substrings](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/PalindromicSubstrings.java)
+- [String Replace String](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/StringReplaceString.java)
 
 ## Lesson 8 BFS & DFS
 - [Word Ladder](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/WordLadder.java)
