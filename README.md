@@ -180,6 +180,8 @@ Coding Practice. Just for fun.
 - [Count Primes](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/CountPrimes.java)
 - [Find All Numbers Disappeared in an Array](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FindNumbersDisappearedArray.java)
 - [Find Median And Mean In Unsorted Array](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FindMedianAndMeanInUnsortedArray.java)
+- [Product Of Array Except Self](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/ProductOfArrayExceptSelf.java)
+- [Ugly Number](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/UglyNumber.java)
 
 ## Lesson 15 Stack
 - [Flatten Nested List Iterator](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FlattenNestedListIterator.java)
