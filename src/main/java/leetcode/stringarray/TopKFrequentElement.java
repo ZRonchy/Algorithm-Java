@@ -44,7 +44,7 @@ public class TopKFrequentElement {
         for(Map.Entry<Integer, Integer> entry: map.entrySet()){
             Pair p = new Pair(entry.getKey(), entry.getValue());
             queue.offer(p);
-            if(queue.size()>k){
+            if(queue.size()>k){ // watch out this line, or queue.poll() will throw NullPointerException
                 queue.poll();
             }
         }

@@ -108,4 +108,45 @@ public class DataStructure {
         System.out.println(treeSet.higher(2)); // 3
         System.out.println(treeSet.lower(2)); // 1
     }
+
+    @Test
+    public void testStringAndCharacter() {
+        // char to String
+        char c = 'a';
+        String s = Character.toString(c);
+
+        // int to char, char to int
+        int i = c - 'a';
+        c = (char) (i + 'a');
+
+        // char to int
+        int j = Character.getNumericValue(c);
+
+        // char array to String
+        char[] ch = s.toCharArray();
+        s = new String(ch);
+
+        // char is digit or not
+        boolean b = Character.isDigit(c);
+
+    }
+
+    @Test
+    public void testLinkedList() {
+        LinkedList<Integer> linkedList = new LinkedList<>();
+        linkedList.addFirst(3);
+        linkedList.addFirst(2);
+        linkedList.addFirst(1);
+        System.out.println(linkedList.poll()); // 1
+        System.out.println(linkedList.poll()); // 2
+        System.out.println(linkedList.poll()); // 3
+
+        linkedList.addLast(3);
+        linkedList.addLast(2);
+        linkedList.addLast(1);
+        System.out.println(linkedList.poll()); // 3
+        System.out.println(linkedList.poll()); // 2
+        System.out.println(linkedList.poll()); // 1
+    }
+
 }

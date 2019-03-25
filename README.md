@@ -112,7 +112,6 @@ Coding Practice. Just for fun.
 - [Symmetric Tree](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/SymmetricTree.java)
 - [Flip Equivalent Binary Trees](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FlipEquivalentBinaryTrees.java)
 - [Serialize And Deserialize Binary Tree](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/SerializeDeserializeTree.java)
-- [Binary Tree Preorder Traversal](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/BinaryTreePreorderTraversal.java)
 - [Preorder Tree Traversal](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/BinaryTreePreorderTraversal.java)
 - [Inorder Tree Traversal](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/BinaryTreeInorderTraversal.java)
 - [Postorder Tree Traversal](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/BinaryTreePostorderTraversal.java)
@@ -236,7 +235,6 @@ Coding Practice. Just for fun.
 - [Reverse Doubly Linked List](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/ReverseDoublyLinkedList.java)
 - [Binary Search](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/sorting/BinarySearch.java)
 - [Binary Search II](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FindFirstAndLastElementInSortedArray.java)
-- Tree Traversal
 - [Create Binary Search Tree](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/CreateBST.java)
 - [Union Find](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/UnionFind.java)
 - [Topology Sort](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/sorting/AlienDictionary.java)
@@ -247,3 +245,6 @@ Coding Practice. Just for fun.
 - [Prefix Sum](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/SubarraySumEqualsK.java)
 - [Random Select From Rectangle](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/RandomSelectFromRectangle.java)
 - [Adjacency Matrix Graph](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/graph/AdjMatrixGraph.java)
+- [Preorder Tree Traversal](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/BinaryTreePreorderTraversal.java)
+- [Inorder Tree Traversal](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/BinaryTreeInorderTraversal.java)
+- [Postorder Tree Traversal](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/BinaryTreePostorderTraversal.java)
