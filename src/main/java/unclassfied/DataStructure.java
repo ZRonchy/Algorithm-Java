@@ -78,6 +78,9 @@ public class DataStructure {
         System.out.println(maxHeap.poll());  // 4
     }
 
+    /**
+     * put is O(logn), firstEntry is also O(logn)
+     */
     @Test
     public void testTreeMap() {
         // TreeMap will sort elements in ascending order by key
