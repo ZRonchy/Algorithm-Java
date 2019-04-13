@@ -46,6 +46,7 @@ Coding Practice. Just for fun.
 - [Task Scheduler](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/TaskScheduler.java)
 - [Partition Labels](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/PartitionLabels.java)
 - [Guess The Word](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/GuessTheWord.java)
+- [Minimum Number of Arrows to Burst Balloons](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FindMinArrowShots.java)
 
 ## Lesson 5 Sort & Binary Search
 - [Quick Sort](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/QuickSort.java)
@@ -146,6 +147,7 @@ Coding Practice. Just for fun.
 - [Meeting Rooms II](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MeetingRoomsII.java)
 - [Insert Interval](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/InsertInterval.java)
 - [Merge Interval](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MergeIntervals.java)
+- [Minimum Number of Arrows to Burst Balloons](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FindMinArrowShots.java)
 
 ## Lesson 12 LinkedList
 - [Reorder List](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/ReorderList.java)
