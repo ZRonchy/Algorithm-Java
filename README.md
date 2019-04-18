@@ -32,13 +32,14 @@ Coding Practice. Just for fun.
 
 ## Lesson 3 Sliding Window & Meet in the Middle
 - [Longest substring without repeating characters](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/LongestSubstringWithoutRepeatingCharacters.java)
-- [Three Sum](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/ThreeSum.java)
 - [Find All Anagrams in a String](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FindAllAnagramsInAString.java)
 - [Minimum Window Substring](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MinimumWindowSubstring.java)
 - [Permutation in String](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/PermutationInString.java)
 - [Fruit into Baskets](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FruitIntoBaskets.java)
 - [Max Sliding Window](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MaxSlidingWindow.java)
 - [Longest Substring With At Most Two Distinct Characters](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/LongestSubstringWithAtMostTwoDistinctCharacters.java)
+- [Distinct Absolute Value](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/AbsDistinct.java)
+- [Three Sum](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/ThreeSum.java)
 
 ## Lesson 4 Greedy Algorithm
 - Scheduling/Job Sequencing
@@ -186,7 +187,6 @@ Coding Practice. Just for fun.
 - [Find Median And Mean In Unsorted Array](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FindMedianAndMeanInUnsortedArray.java)
 - [Product Of Array Except Self](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/ProductOfArrayExceptSelf.java)
 - [Ugly Number](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/UglyNumber.java)
-- [Distinct Absolute Value](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/AbsDistinct.java)
 
 ## Lesson 15 Stack
 - [Flatten Nested List Iterator](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FlattenNestedListIterator.java)
