@@ -186,6 +186,7 @@ Coding Practice. Just for fun.
 - [Find Median And Mean In Unsorted Array](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FindMedianAndMeanInUnsortedArray.java)
 - [Product Of Array Except Self](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/ProductOfArrayExceptSelf.java)
 - [Ugly Number](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/UglyNumber.java)
+- [Distinct Absolute Value](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/AbsDistinct.java)
 
 ## Lesson 15 Stack
 - [Flatten Nested List Iterator](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FlattenNestedListIterator.java)
