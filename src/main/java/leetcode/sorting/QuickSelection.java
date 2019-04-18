@@ -14,10 +14,8 @@ package leetcode.sorting;
  * Output: 10
  */
 public class QuickSelection {
-    // Standard partition process of QuickSort.
-    // It considers the last element as pivot
-    // and moves all smaller element to left of
-    // it and greater elements to right
+    // Standard partition process of QuickSort. It considers the last element as pivot
+    // and moves all smaller element to left of it and greater elements to right
     public static int partition(Integer[] arr, int l, int r) {
         int pivot = arr[r], partitionIndex = l;
         for (int j = l; j <= r - 1; j++) {

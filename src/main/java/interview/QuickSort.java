@@ -42,7 +42,7 @@ public class QuickSort {
                 j--;
             }
         }
-        // call quickSort() method recursively
+        // call quickSortDoublyLinkedList() method recursively
         if (lowerIndex < j)
             quickSort(lowerIndex, j);
         if (i < higherIndex)

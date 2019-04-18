@@ -63,6 +63,8 @@ Coding Practice. Just for fun.
 - [Search Insert Position](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/stringarray/SearchInsertPosition.java)
 - [Find Peak Element](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FindPeakElement.java)
 - [Lower Bound and Upper Bound](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/LowerBoundUpperBound.java)
+- [Quick Sort Doubly LinkedList](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/QuickSortDoublyLinkedList.java)
+- [Bubble Sort Doubly LinkedList](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/BubbleSortDoublyLinkedList.java)
 
 ## Lesson 6 Matrix
 - [Word Search](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/WordSearch.java)``
