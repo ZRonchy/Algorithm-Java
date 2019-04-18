@@ -16,6 +16,7 @@ Coding Practice. Just for fun.
 - [Target Sum](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/TargetSum.java)
 - [Burst Ballons](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/BurstBallons.java)
 - [Perfect Squares](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/PerfectSquares.java)
+- [Seats Game](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/dynamicprogramming/SeatsGame.java)
 
 ## Lesson 2 Backtracking
 - [N Queens](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/NQueens.java)
