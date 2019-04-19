@@ -16,6 +16,7 @@ Coding Practice. Just for fun.
 - [Target Sum](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/TargetSum.java)
 - [Burst Ballons](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/BurstBallons.java)
 - [Perfect Squares](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/PerfectSquares.java)
+- [Seats Game](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/dynamicprogramming/SeatsGame.java)
 
 ## Lesson 2 Backtracking
 - [N Queens](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/NQueens.java)
@@ -31,13 +32,14 @@ Coding Practice. Just for fun.
 
 ## Lesson 3 Sliding Window & Meet in the Middle
 - [Longest substring without repeating characters](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/LongestSubstringWithoutRepeatingCharacters.java)
-- [Three Sum](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/ThreeSum.java)
 - [Find All Anagrams in a String](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FindAllAnagramsInAString.java)
 - [Minimum Window Substring](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MinimumWindowSubstring.java)
 - [Permutation in String](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/PermutationInString.java)
 - [Fruit into Baskets](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FruitIntoBaskets.java)
 - [Max Sliding Window](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MaxSlidingWindow.java)
 - [Longest Substring With At Most Two Distinct Characters](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/LongestSubstringWithAtMostTwoDistinctCharacters.java)
+- [Distinct Absolute Value](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/AbsDistinct.java)
+- [Three Sum](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/ThreeSum.java)
 
 ## Lesson 4 Greedy Algorithm
 - Scheduling/Job Sequencing
@@ -62,6 +64,8 @@ Coding Practice. Just for fun.
 - [Search Insert Position](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/stringarray/SearchInsertPosition.java)
 - [Find Peak Element](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FindPeakElement.java)
 - [Lower Bound and Upper Bound](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/LowerBoundUpperBound.java)
+- [Quick Sort Doubly LinkedList](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/QuickSortDoublyLinkedList.java)
+- [Bubble Sort Doubly LinkedList](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/BubbleSortDoublyLinkedList.java)
 
 ## Lesson 6 Matrix
 - [Word Search](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/WordSearch.java)``
