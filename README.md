@@ -27,7 +27,6 @@ Coding Practice. Just for fun.
 - [Palindrome Partition](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/PalindromePartition.java)
 - [Combinations](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/Combinations.java)
 - [Generate All Strings With Wildcard](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/GenerateAllStringsWithWildcard.java)
-- [Find Missing Positive](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FindMissingPositive.java)
 - [All Possible Strings](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/AllPossibleStrings.java)
 
 ## Lesson 3 Sliding Window & Meet in the Middle
@@ -184,6 +183,7 @@ Coding Practice. Just for fun.
 - [Find Median And Mean In Unsorted Array](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FindMedianAndMeanInUnsortedArray.java)
 - [Product Of Array Except Self](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/ProductOfArrayExceptSelf.java)
 - [Ugly Number](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/UglyNumber.java)
+- [Find Missing Positive](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FindMissingPositive.java)
 
 ## Lesson 15 Stack
 - [Flatten Nested List Iterator](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FlattenNestedListIterator.java)
