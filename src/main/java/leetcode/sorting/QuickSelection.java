@@ -12,6 +12,7 @@ package leetcode.sorting;
  * Input: arr[] = {7, 10, 4, 3, 20, 15}
  * k = 4
  * Output: 10
+ * time: O(n) worst case O(n*n)
  */
 public class QuickSelection {
     // Standard partition process of QuickSort. It considers the last element as pivot
