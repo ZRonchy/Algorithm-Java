@@ -189,6 +189,7 @@ Coding Practice. Just for fun.
 - [Product Of Array Except Self](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/ProductOfArrayExceptSelf.java)
 - [Ugly Number](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/UglyNumber.java)
 - [Find Missing Positive](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FindMissingPositive.java)
+- [Find Duplicate Number](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/sword/array/FindDuplicateNumber.java)
 
 ## Lesson 15 Stack
 - [Flatten Nested List Iterator](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FlattenNestedListIterator.java)
