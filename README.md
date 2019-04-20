@@ -67,9 +67,10 @@ Coding Practice. Just for fun.
 - [Quick Sort Doubly LinkedList](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/QuickSortDoublyLinkedList.java)
 - [Bubble Sort Doubly LinkedList](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/BubbleSortDoublyLinkedList.java)
 - [Inverse Pairs](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/sword/array/InversePairs.java)
+- [Reorder Array](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/sword/array/ReorderArray.java)
 
 ## Lesson 6 Matrix
-- [Word Search](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/WordSearch.java)``
+- [Word Search](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/WordSearch.java)
 - [Number of Islands](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/NumberOfIslands.java)
 - [Flood Fill](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FloodFill.java)
 - [Search A 2D Matrix II](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/SearchA2DMatrixII.java)
