@@ -1,4 +1,4 @@
-package submitted;
+package leetcode.dynamicprogramming;
 
 /**
  * https://leetcode.com/submissions/detail/206377083/
