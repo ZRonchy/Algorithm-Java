@@ -27,11 +27,7 @@ public class SlidingWindowMax {
 
     private static int[] maxSlidingWindow(int[] a, int k) {
         if(a == null || a.length == 0) return new int[] {};
-        PriorityQueue<Integer> pq = new PriorityQueue<Integer>(k, new Comparator<Integer>() {
-            public int compare(Integer o1, Integer o2) {
-                return o2 - o1;
-            }
-        });
+        PriorityQueue<Integer> pq = new PriorityQueue<>(k, (o1, o2) -> o2 - o1);
         int[] result = new int[a.length - k + 1];
         int count = 0;
         for (int i = 0; i < a.length - k + 1; i++) {
@@ -65,8 +61,8 @@ public class SlidingWindowMax {
 
         LinkedList<Integer> deque = new LinkedList<>();
         for(int i=0; i<nums.length; i++){
-            // remove ele out of the window
-            //Whatever the ordering used, the head of the queue is that element which
+            // Remove ele out of the window
+            // Whatever the ordering used, the head of the queue is that element which
             // would be removed by a call to remove() or poll(). In a FIFO queue, all new elements are
             // inserted at the tail of the queue.
             if(!deque.isEmpty() && deque.peekFirst() == i-k) {

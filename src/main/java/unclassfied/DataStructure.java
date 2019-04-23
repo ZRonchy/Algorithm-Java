@@ -30,11 +30,11 @@ public class DataStructure {
 
         // used as a stack
         for (String ele: array) {
-            deque.push(ele);
+            deque.push(ele); //inserts the element at the front of this list
         }
         System.out.println(deque.peekFirst()); // 4
         System.out.println(deque.peekLast());  // 1
-        System.out.println(deque.pop());  // 4
+        System.out.println(deque.pop());  // 4 pop() removes and returns the first element of this list
         System.out.println(deque.removeFirst());  // 3
         System.out.println(deque.removeLast());  // 1
 
@@ -42,13 +42,25 @@ public class DataStructure {
 
         // used as a queue
         for (String ele: array) {
-            deque.offer(ele);
+            deque.offer(ele); // Adds the specified element as the tail (last element) of this list
         }
         System.out.println(deque.peekFirst()); // 1
         System.out.println(deque.peekLast());  // 4
-        System.out.println(deque.poll());  // 1
+        System.out.println(deque.poll());  // 1 poll() retrieves and removes the head (first element) of this list
         System.out.println(deque.removeFirst());  // 2
         System.out.println(deque.removeLast());  // 4
+
+        deque.clear();
+
+        // used as deque
+        deque.offer("1"); // deque: head -> 1
+        deque.push("2"); // deque: head -> 2 -> 1
+        deque.offer("3"); // deque: head ->2 -> 1 -> 3
+        deque.push("4"); // deque: head -> 4 -> 2 ->1 -> 3
+
+        for (String ele: deque) {
+            System.out.println(ele);
+        }
     }
 
     /**

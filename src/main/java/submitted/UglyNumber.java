@@ -2,6 +2,9 @@ package submitted;
 
 import static java.lang.Math.min;
 
+/**
+ * 把只包含质因子2、3和5的数称作丑数（Ugly Number）
+ */
 public class UglyNumber {
     public boolean isUgly(int num) {
         if (num <= 0) {

@@ -1,9 +1,11 @@
-package submitted;
+package sword.array;
 
 /**
  * https://leetcode.com/submissions/detail/201486042/
  * time: O(n)
  * space: O(1)
+ *
+ * The same solution for rotating the first k characters of a String
  */
 public class RotateArray {
     /**

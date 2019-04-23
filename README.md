@@ -95,6 +95,7 @@ Coding Practice. Just for fun.
 - [String Replace String](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/StringReplaceString.java)
 - [Valid Number](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/ValidNumber.java)
 - [First Unique Char In Stream](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FirstUniqueCharInStream.java)
+- [Rotate String/Array](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/sword/array/RotateArray.java)
 
 ## Lesson 8 BFS & DFS
 - [Word Ladder](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/WordLadder.java)
