@@ -18,7 +18,7 @@ public class OddEvenLinkedList {
 
     public static ListNode oddEvenList(ListNode head) {
         if(head == null)
-            return head;
+            return null;
 
         ListNode result = head;
         ListNode p1 = head;
