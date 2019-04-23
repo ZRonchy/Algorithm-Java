@@ -27,7 +27,6 @@ public class PartitionList {
                 p = p.next;
                 prev = prev.next;
             }else{
-
                 p2.next = p;
                 prev.next = p.next;
 

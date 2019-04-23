@@ -32,9 +32,9 @@ public class EditDistance {
                     dp[i][j] = dp[i-1][j-1];
                 } else {
                     dp[i][j] = 1 + min(
-                            dp[i-1][j-1],
-                            dp[i][j-1],
-                            dp[i-1][j]
+                            dp[i-1][j-1], // replace
+                            dp[i][j-1],   // insert
+                            dp[i-1][j]    // remove
                     );
                 }
             }
@@ -44,6 +44,7 @@ public class EditDistance {
     }
 
     int min(int i, int j, int k) {
+        // return Math.min(i, Math.min(j, k))
         int small = i;
 
         if (j < small) {

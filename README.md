@@ -12,7 +12,8 @@ Coding Practice. Just for fun.
 - [Word Break](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/WordBreak.java)
 - [Wildcard Matching](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/WildcardMatching.java)
 - [Min Cost Climbing Stairs](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/MinCostClimbingStairs.java)
-- [Coin Change](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/CoinChange.java)
+- [Coin Change](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/dynamicprogramming/CoinChange.java)
+- [Ways For Coin Change](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/dynamicprogramming/WaysForCoinChange.java)
 - [Target Sum](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/TargetSum.java)
 - [Burst Ballons](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/BurstBallons.java)
 - [Perfect Squares](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/PerfectSquares.java)
@@ -162,8 +163,11 @@ Coding Practice. Just for fun.
 - [Reverse Second Half Of Linked List](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/ReverseSecondHalfOfLinkedList.java)
 - [Reverse Nodes in k-Group](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/ReverseKGroup.java)
 - [Sort List](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/SortList.java)
-- [Partition List](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/linkedlist/PartitionList.java)
+- [Detect LinkedList Cycle](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/LinkedListCycle.java)
+- [Find Node Begin At Loop LinkedList](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FindNodeBeginAtLoopLinkedList.java)
 - [First Common Node In Two LinkedLists](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FirstCommonNodeInTwoLinkedLists.java)
+- [Partition List](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/linkedlist/PartitionList.java)
+- [Detect And Remove Loop](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/linkedlist/DetectAndRemoveLoop.java)
 - [Find Kth to Tail](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/sword/array/FindKthToTail.java)
 
 ## Lesson 13 Data Structure Design

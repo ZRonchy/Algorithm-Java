@@ -1,6 +1,10 @@
-package submitted;
+package leetcode.dynamicprogramming;
 
 /**
+ * You are given coins of different denominations and a total amount of money amount.
+ * Write a function to compute the fewest number of coins that you need to make up that amount.
+ * If that amount of money cannot be made up by any combination of the coins, return -1.
+ *
  * https://leetcode.com/submissions/detail/206377083/
  * time : O(n*amount)
  * space : O(amount)
