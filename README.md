@@ -55,6 +55,7 @@ Coding Practice. Just for fun.
 - [Merge Sort](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/sorting/MergeSort.java)
 - [Binary Search](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/sorting/BinarySearch.java)
 - [Insertion Sort](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/sorting/InsertionSort.java)
+- [Shell Sort](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/sorting/ShellSort.java)
 - [K-th Largest Element](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FindKthLargest.java)
 - [Search in Rotated Sorted Array](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/SearchInRotatedSortedArray.java)
 - [Counting Sort](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/sorting/CountingSort.java)
