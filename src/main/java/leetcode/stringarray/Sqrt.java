@@ -27,4 +27,32 @@ public class Sqrt {
             return (int) low;
         }
     }
+
+    // 牛顿迭代法
+    public double sqrt(double x) {
+        if (x == 0) {
+            return 0;
+        }
+        // first guess the sqrt is 1.0, then do res = (res + x / res) / 2; until res stops changing
+        double last = 0.0;
+        double res = 1.0;
+        while (res != last) {
+            last = res;
+            res = (res + x / res) / 2;
+        }
+        return res;
+    }
+
+    public int sqrt(int x) {
+        if (x == 0) {
+            return 0;
+        }
+        double last = 0;
+        double res = 1;
+        while (res != last) {
+            last = res;
+            res = (res + x / res) / 2;
+        }
+        return new Double(res).intValue();
+    }
 }
