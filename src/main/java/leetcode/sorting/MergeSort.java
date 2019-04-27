@@ -2,6 +2,14 @@ package leetcode.sorting;
 
 import java.util.Arrays;
 // time O(nlogn) space O(n)
+
+/**
+ * 思想：归并排序采用了分治算法，首先递归将原始数组划分为若干子数组，
+ * 对每个子数组进行排序。然后将排好序的子数组递归合并成一个有序的数组。
+ * 时间复杂度：最坏:O(nlog2n) 最好: O(nlog2n) 平均: O(nlog2n)
+ * 空间复杂度：O(n)
+ * 稳定性：稳定
+ */
 public class MergeSort {
     public static void mergeSort(int[] a, int n) {
         if (n < 2) {
@@ -28,8 +36,7 @@ public class MergeSort {
         while (i < left && j < right) {
             if (l[i] <= r[j]) {
                 a[k++] = l[i++];
-            }
-            else {
+            } else {
                 a[k++] = r[j++];
             }
         }
@@ -42,7 +49,7 @@ public class MergeSort {
     }
 
     public static void main(String[] args) {
-        int[] arr = { 5, 1, 6, 2, 3, 4 };
+        int[] arr = {5, 1, 6, 2, 3, 4};
         MergeSort.mergeSort(arr, arr.length);
         System.out.print(Arrays.toString(arr));
     }
