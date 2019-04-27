@@ -51,12 +51,15 @@ Coding Practice. Just for fun.
 - [Minimum Number of Arrows to Burst Balloons](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FindMinArrowShots.java)
 
 ## Lesson 5 Sort & Binary Search
-- [Quick Sort](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/QuickSort.java)
+- [Quick Sort](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/sorting/QuickSort.java)
 - [Merge Sort](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/sorting/MergeSort.java)
-- [Binary Search](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/sorting/BinarySearch.java)
 - [Insertion Sort](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/sorting/InsertionSort.java)
 - [Shell Sort](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/sorting/ShellSort.java)
+- [Bubble Sort](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/sorting/BubbleSort.java)
 - [Radix Sort](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/sorting/RadixSort.java)
+- [Selection Sort](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/sorting/SelectionSort.java)
+- [Heap Sort](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/sorting/HeapSort.java)
+- [Binary Search](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/sorting/BinarySearch.java)
 - [K-th Largest Element](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FindKthLargest.java)
 - [Search in Rotated Sorted Array](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/SearchInRotatedSortedArray.java)
 - [Counting Sort](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/sorting/CountingSort.java)
