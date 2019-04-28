@@ -34,11 +34,7 @@ public class TopKFrequentElement {
         }
 
         // create a min heap
-        PriorityQueue<Pair> queue = new PriorityQueue<Pair>(new Comparator<Pair>(){
-            public int compare(Pair a, Pair b){
-                return a.count-b.count;
-            }
-        });
+        PriorityQueue<Pair> queue = new PriorityQueue<>((a, b) -> a.count - b.count);
 
         //maintain a heap of size k.
         for(Map.Entry<Integer, Integer> entry: map.entrySet()){

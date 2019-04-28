@@ -91,7 +91,8 @@ public class DataStructure {
     }
 
     /**
-     * put is O(logn), firstEntry is also O(logn)
+     * put is O(logn), firstEntry O(logn)
+     * get(key) remove(key) are O(logn)
      */
     @Test
     public void testTreeMap() {

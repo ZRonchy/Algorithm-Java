@@ -16,8 +16,7 @@ public class WordLadderUniquePath {
         if (!wordList.contains(endWord)) {
             return result;
         }
-        HashSet<String> visited = new HashSet<>();
-        visited.addAll(wordList);
+        HashSet<String> visited = new HashSet<>(wordList);
 
         LinkedList<Node> queue = new LinkedList<>();
         Node node = new Node(beginWord, 0, null);
