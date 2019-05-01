@@ -54,7 +54,6 @@ public class ProducerConsumerByLock {
         @Override
         public void run() {
             while (true) {
-
                 //获得锁
                 lock.lock();
                 while (queue.size() == maxSize) {
