@@ -150,6 +150,7 @@ Coding Practice. Just for fun.
 - [Find Inorder Successor](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FindInorderSuccessor.java)
 - [Convert BST To Doubly Linked List](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/ConvertBSTToDoublyLinkedList.java)
 - [Is Array Postorder Traversal](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/IsArrayPostorderTraversal.java)
+- [Flatten Binary Tree To LinkedList](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FlattenBinaryTreeToLinkedList.java)
 
 ## Lesson 10 Union Find/Disjoint Set
 - [Friend Circles](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FriendCircles.java)
