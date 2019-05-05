@@ -12,11 +12,11 @@ public class RemoveDuplicateNodes {
             return null;
         }
         // 新建一个节点，防止头结点被删除
-        ListNode firstNode = new ListNode(-1);
-        firstNode.next = pHead;
+        ListNode dummyNode = new ListNode(-1);
+        dummyNode.next = pHead;
         ListNode cur = pHead;
         // 指向前一个节点
-        ListNode preNode = firstNode;
+        ListNode preNode = dummyNode;
         while (cur != null && cur.next != null) {//注意条件的顺序，否则不对 因为如果p为null，p.next肯定异常
             if (cur.val == cur.next.val) {
                 int val = cur.val;
@@ -32,7 +32,7 @@ public class RemoveDuplicateNodes {
                 cur = cur.next;
             }
         }
-        return firstNode.next;
+        return dummyNode.next;
     }
 
 }

@@ -175,6 +175,7 @@ Coding Practice. Just for fun.
 - [First Common Node In Two LinkedLists](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/submitted/FirstCommonNodeInTwoLinkedLists.java)
 - [Partition List](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/linkedlist/PartitionList.java)
 - [Detect And Remove Loop](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/linkedlist/DetectAndRemoveLoop.java)
+- [Remove Duplicate Nodes](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/linkedlist/RemoveDuplicateNodes.java)
 - [Find Kth to Tail](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/sword/array/FindKthToTail.java)
 
 ## Lesson 13 Data Structure Design
