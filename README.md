@@ -85,6 +85,8 @@ Coding Practice. Just for fun.
 - [Unique Path](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/matrix/UniquePath.java)
 - [Unique Path II](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/matrix/UniquePathII.java)
 - [Rotate Image](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/crackinginterview/arraysandstrings/RotateImage.java)
+- [Validate Sudoku](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/matrix/ValidateSudoku.java)
+- [Sudoku Solver](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/matrix/SudokuSolver.java)
 
 ## Lesson 7 String
 - [Longest Palindrome](https://github.com/ZRonchy/Algorithms/blob/master/src/main/java/leetcode/greedyalgorithm/LongestPalindrome.java)
