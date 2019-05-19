@@ -1,5 +1,6 @@
 package submitted;
 
+import java.util.Arrays;
 import java.util.PriorityQueue;
 
 /**
@@ -7,6 +8,19 @@ import java.util.PriorityQueue;
  * 如果是偶数呢，标准的定义是位置为n/2和位置为n/2+1的两个元素的和除以2的结果
  */
 public class MedianInUnsortedArray {
+    public static void main(String[] args) {
+        int[] nums = {1, 2, 3, 4, 5, 6, 7};
+        System.out.println(median(nums));
+    }
+    // Sort first
+    public static int median(int[] nums) {
+        Arrays.sort(nums);
+        int n = nums.length;
+        if(nums.length % 2 == 0)//偶数
+            return (nums[n/2 - 1] + nums[n/2]) / 2;
+        else//奇数
+            return nums[n/2];
+    }
     // Quick Selection
     public static double median2(int[] array){
         if(array==null || array.length==0) return 0;
@@ -45,7 +59,7 @@ public class MedianInUnsortedArray {
     }
 
     // Use heap of size n/2 + 1
-    public static double median(int[] array){
+    public static double median1(int[] array){
         int heapSize = array.length/2 + 1;
         PriorityQueue<Integer> heap = new PriorityQueue<>(heapSize);
         for(int i=0; i<heapSize; i++){
