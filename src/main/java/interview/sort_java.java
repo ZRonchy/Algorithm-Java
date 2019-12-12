@@ -1,4 +1,4 @@
-package Code;
+package interview;
 import java.util.Arrays;
 
 public class sort_java {

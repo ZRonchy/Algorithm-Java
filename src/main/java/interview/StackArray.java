@@ -1,5 +1,5 @@
-package Code;
-import java.*;
+package interview;
+
 public class StackArray {
     private Object[] objectArray;
     private int stackSize;
@@ -11,7 +11,7 @@ public class StackArray {
     	objectArray = new Object[size];
     	stackSize = 0;    	
     }
-	public void push(Object o) throws StackArrayException{
+	public void push(Object o) throws StackArrayException {
 		if(stackSize < objectArray.length){
 			objectArray[stackSize] = 0;
 			stackSize+= 1;
@@ -20,7 +20,7 @@ public class StackArray {
 		} 
 		
 	}
-    public Object top() throws StackArrayException{
+    public Object top() throws StackArrayException {
     	if(stackSize !=0){
     		return objectArray[stackSize-1];
     	}else{
@@ -28,7 +28,7 @@ public class StackArray {
     	}
     	
     }
-    public Object pop() throws StackArrayException{
+    public Object pop() throws StackArrayException {
     	if(stackSize!=0){
     		stackSize -=1;
     		return objectArray[stackSize];

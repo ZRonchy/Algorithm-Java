@@ -1,4 +1,4 @@
-package Code;
+package interview;
 import java.util.HashMap;
 public class happy_number {
     

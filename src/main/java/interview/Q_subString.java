@@ -1,4 +1,4 @@
-package Code;
+package interview;
 
 public class Q_subString {
 	public static void main (String [] args){
@@ -83,5 +83,5 @@ public static boolean issubString2(String s1, String s2){
 }
 
 /*public String substring(int beginIndex, int endIndex)
-·µ»ØÒ»¸öĞÂ×Ö·û´®£¬ËüÊÇ´Ë×Ö·û´®µÄÒ»¸ö×Ó×Ö·û´®¡£¸Ã×Ó×Ö·û´®´ÓÖ¸¶¨µÄ beginIndex ´¦¿ªÊ¼£¬
-Ö±µ½Ë÷Òı endIndex - 1 ´¦µÄ×Ö·û¡£Òò´Ë£¬¸Ã×Ó×Ö·û´®µÄ³¤¶ÈÎª endIndex-beginIndex¡£ */
+è¿”å›ä¸€ä¸ªæ–°å­—ç¬¦ä¸²ï¼Œå®ƒæ˜¯æ­¤å­—ç¬¦ä¸²çš„ä¸€ä¸ªå­å­—ç¬¦ä¸²ã€‚è¯¥å­å­—ç¬¦ä¸²ä»æŒ‡å®šçš„ beginIndex å¤„å¼€å§‹ï¼Œ
+ç›´åˆ°ç´¢å¼• endIndex - 1 å¤„çš„å­—ç¬¦ã€‚å› æ­¤ï¼Œè¯¥å­å­—ç¬¦ä¸²çš„é•¿åº¦ä¸º endIndex-beginIndexã€‚ */

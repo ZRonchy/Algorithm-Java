@@ -1,4 +1,4 @@
-package Code;
+package interview;
 
 public class StackList {
     private Node listHead;
